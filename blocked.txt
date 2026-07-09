@@ -1,0 +1,1549 @@
+# Чебур-Браузер — Список заблокированных иностранных сайтов (1000+)
+# Формат: домен|альтернатива|URL альтернативы|иконка
+
+# ==============================
+# ПОИСКОВИКИ
+# ==============================
+google.com|Яндекс|https://yandex.ru|🔍
+google.ru|Яндекс|https://yandex.ru|🔍
+google.de|Яндекс|https://yandex.ru|🔍
+google.fr|Яндекс|https://yandex.ru|🔍
+google.co.uk|Яндекс|https://yandex.ru|🔍
+google.co.jp|Яндекс|https://yandex.ru|🔍
+google.it|Яндекс|https://yandex.ru|🔍
+google.es|Яндекс|https://yandex.ru|🔍
+google.ca|Яндекс|https://yandex.ru|🔍
+google.com.au|Яндекс|https://yandex.ru|🔍
+google.com.br|Яндекс|https://yandex.ru|🔍
+google.com.mx|Яндекс|https://yandex.ru|🔍
+google.pl|Яндекс|https://yandex.ru|🔍
+google.nl|Яндекс|https://yandex.ru|🔍
+google.be|Яндекс|https://yandex.ru|🔍
+google.ch|Яндекс|https://yandex.ru|🔍
+google.at|Яндекс|https://yandex.ru|🔍
+google.se|Яндекс|https://yandex.ru|🔍
+google.no|Яндекс|https://yandex.ru|🔍
+google.dk|Яндекс|https://yandex.ru|🔍
+google.fi|Яндекс|https://yandex.ru|🔍
+google.cz|Яндекс|https://yandex.ru|🔍
+google.ro|Яндекс|https://yandex.ru|🔍
+google.hu|Яндекс|https://yandex.ru|🔍
+google.gr|Яндекс|https://yandex.ru|🔍
+google.pt|Яндекс|https://yandex.ru|🔍
+google.ie|Яндекс|https://yandex.ru|🔍
+google.co.in|Яндекс|https://yandex.ru|🔍
+google.co.kr|Яндекс|https://yandex.ru|🔍
+google.com.hk|Яндекс|https://yandex.ru|🔍
+google.com.tw|Яндекс|https://yandex.ru|🔍
+google.com.sg|Яндекс|https://yandex.ru|🔍
+google.com.my|Яндекс|https://yandex.ru|🔍
+google.co.th|Яндекс|https://yandex.ru|🔍
+google.com.vn|Яндекс|https://yandex.ru|🔍
+google.com.ph|Яндекс|https://yandex.ru|🔍
+google.co.id|Яндекс|https://yandex.ru|🔍
+google.co.nz|Яндекс|https://yandex.ru|🔍
+google.com.ar|Яндекс|https://yandex.ru|🔍
+google.cl|Яндекс|https://yandex.ru|🔍
+google.com.co|Яндекс|https://yandex.ru|🔍
+google.com.pe|Яндекс|https://yandex.ru|🔍
+google.com.ec|Яндекс|https://yandex.ru|🔍
+google.co.za|Яндекс|https://yandex.ru|🔍
+google.com.eg|Яндекс|https://yandex.ru|🔍
+google.ae|Яндекс|https://yandex.ru|🔍
+google.com.sa|Яндекс|https://yandex.ru|🔍
+google.com.tr|Яндекс|https://yandex.ru|🔍
+google.com.pk|Яндекс|https://yandex.ru|🔍
+google.com.bd|Яндекс|https://yandex.ru|🔍
+google.lk|Яндекс|https://yandex.ru|🔍
+google.com.np|Яндекс|https://yandex.ru|🔍
+google.com.mm|Яндекс|https://yandex.ru|🔍
+googleapis.com|Яндекс|https://yandex.ru|🔍
+bing.com|Яндекс|https://yandex.ru|🔍
+msn.com|Яндекс|https://yandex.ru|🔍
+duckduckgo.com|Яндекс|https://yandex.ru|🔍
+duckduckgo.ru|Яндекс|https://yandex.ru|🔍
+search.yahoo.com|Яндекс|https://yandex.ru|🔍
+yahoo.com|Яндекс|https://yandex.ru|🔍
+ask.com|Яндекс|https://yandex.ru|🔍
+aol.com|Яндекс|https://yandex.ru|🔍
+baidu.com|Яндекс|https://yandex.ru|🔍
+naver.com|Яндекс|https://yandex.ru|🔍
+sogou.com|Яндекс|https://yandex.ru|🔍
+ecosia.org|Яндекс|https://yandex.ru|🔍
+startpage.com|Яндекс|https://yandex.ru|🔍
+searx.space|Яндекс|https://yandex.ru|🔍
+mojeek.com|Яндекс|https://yandex.ru|🔍
+qwant.com|Яндекс|https://yandex.ru|🔍
+swisscows.com|Яндекс|https://yandex.ru|🔍
+brave.com/search|Яндекс|https://yandex.ru|🔍
+yandeximages.com|Яндекс|https://yandex.ru|🔍
+scholar.google.com|Яндекс|https://yandex.ru|🔍
+images.google.com|Яндекс|https://yandex.ru|🔍
+news.google.com|Яндекс|https://yandex.ru|🔍
+maps.google.com|Яндекс Карты|https://yandex.ru/maps|🔍
+
+# ==============================
+# СОЦИАЛЬНЫЕ СЕТИ
+# ==============================
+facebook.com|ВКонтакте|https://vk.com|💬
+fb.com|ВКонтакте|https://vk.com|💬
+m.facebook.com|ВКонтакте|https://vk.com|💬
+web.facebook.com|ВКонтакте|https://vk.com|💬
+instagram.com|ВКонтакте|https://vk.com|💬
+www.instagram.com|ВКонтакте|https://vk.com|💬
+twitter.com|VK Клипы|https://vk.com/video|🎬
+x.com|VK Клипы|https://vk.com/video|🎬
+mobile.twitter.com|VK Клипы|https://vk.com/video|🎬
+t.co|VK Клипы|https://vk.com/video|🎬
+tiktok.com|VK Клипы|https://vk.com/video|🎬
+www.tiktok.com|VK Клипы|https://vk.com/video|🎬
+vm.tiktok.com|VK Клипы|https://vk.com/video|🎬
+reddit.com|Пикабу|https://pikabu.ru|📰
+old.reddit.com|Пикабу|https://pikabu.ru|📰
+www.reddit.com|Пикабу|https://pikabu.ru|📰
+linkedin.com|HH.ru|https://hh.ru|💼
+linkedin.cn|HH.ru|https://hh.ru|💼
+www.linkedin.com|HH.ru|https://hh.ru|💼
+snapchat.com|VK Мессенджер|https://vk.com|💬
+web.snapchat.com|VK Мессенджер|https://vk.com|💬
+pinterest.com|Дзен|https://dzen.ru|📰
+www.pinterest.com|Дзен|https://dzen.ru|📰
+pinterest.ru|Дзен|https://dzen.ru|📰
+tumblr.com|Дзен|https://dzen.ru|📰
+www.tumblr.com|Дзен|https://dzen.ru|📰
+quora.com|Habr|https://habr.com|💻
+www.quora.com|Habr|https://habr.com|💻
+parler.com|VK|https://vk.com|💬
+mewe.com|VK|https://vk.com|💬
+gab.com|VK|https://vk.com|💬
+truthsocial.com|VK|https://vk.com|💬
+mastodon.social|Pleer|https://pleer.ru|🎵
+fosstodon.org|Pleer|https://pleer.ru|🎵
+bsky.app|VK|https://vk.com|💬
+threads.net|ВКонтакте|https://vk.com|💬
+www.threads.net|ВКонтакте|https://vk.com|💬
+likee.video|VK Клипы|https://vk.com/video|🎬
+likee.com|VK Клипы|https://vk.com/video|🎬
+kwai.com|VK Клипы|https://vk.com/video|🎬
+triller.co|VK Клипы|https://vk.com/video|🎬
+clash.me|VK Клипы|https://vk.com/video|🎬
+bereal.com|VK|https://vk.com|💬
+clubhouse.com|VK|https://vk.com|💬
+signal.org|VK Мессенджер|https://vk.com|💬
+signal Private|VK Мессенджер|https://vk.com|💬
+
+# ==============================
+# ВИДЕО
+# ==============================
+youtube.com|Кинопоиск|https://www.kinopoisk.ru|📺
+www.youtube.com|Кинопоиск|https://www.kinopoisk.ru|📺
+m.youtube.com|Кинопоиск|https://www.kinopoisk.ru|📺
+youtube-nocookie.com|Кинопоиск|https://www.kinopoisk.ru|📺
+youtu.be|Кинопоиск|https://www.kinopoisk.ru|📺
+ytimg.com|Кинопоиск|https://www.kinopoisk.ru|📺
+twitch.tv|VK Play Live|https://live.vkplay.ru|🎮
+www.twitch.tv|VK Play Live|https://live.vkplay.ru|🎮
+m.twitch.tv|VK Play Live|https://live.vkplay.ru|🎮
+vimeo.com|VK Видео|https://vk.com/video|🎬
+www.vimeo.com|VK Видео|https://vk.com/video|🎬
+dailymotion.com|VK Видео|https://vk.com/video|🎬
+www.dailymotion.com|VK Видео|https://vk.com/video|🎬
+rumble.com|VK Видео|https://vk.com/video|uitka
+bitchute.com|VK Видео|https://vk.com/video|🎬
+odysee.com|VK Видео|https://vk.com/video|🎬
+banned.video|VK Видео|https://vk.com/video|🎬
+brighteon.com|VK Видео|https://vk.com/video|🎬
+dlive.tv|VK Play Live|https://live.vkplay.ru|🎮
+floatplane.com|Кинопоиск|https://www.kinopoisk.ru|📺
+wistia.com|VK Видео|https://vk.com/video|🎬
+jwplayer.com|VK Видео|https://vk.com/video|🎬
+vid.me|VK Видео|https://vk.com/video|🎬
+vine.co|VK Клипы|https://vk.com/video|🎬
+periscope.tv|VK Видео|https://vk.com/video|🎬
+ustream.tv|VK Play Live|https://live.vkplay.ru|🎮
+hitbox.tv|VK Play Live|https://live.vkplay.ru|🎮
+mixer.com|VK Play Live|https://live.vkplay.ru|🎮
+beam.pro|VK Play Live|https://live.vkplay.ru|🎮
+acfun.cn|VK Клипы|https://vk.com/video|🎬
+bilibili.com|VK Клипы|https://vk.com/video|🎬
+nicovideo.jp|VK Клипы|https://vk.com/video|🎬
+v.qq.com|VK Клипы|https://vk.com/video|🎬
+youku.com|VK Клипы|https://vk.com/video|🎬
+iqiyi.com|VK Клипы|https://vk.com/video|🎬
+twitchcdn.net|VK Play Live|https://live.vkplay.ru|🎮
+twitchcdn.com|VK Play Live|https://live.vkplay.ru|🎮
+jtvnw.net|VK Play Live|https://live.vkplay.ru|🎮
+ttvnw.net|VK Play Live|https://live.vkplay.ru|🎮
+ext-twitch.tv|VK Play Live|https://live.vkplay.ru|🎮
+
+# ==============================
+# МЕССЕНДЖЕРЫ
+# ==============================
+web.telegram.org|VK Мессенджер|https://vk.com|💬
+telegram.org|VK Мессенджер|https://vk.com|💬
+t.me|VK Мессенджер|https://vk.com|💬
+core.telegram.org|VK Мессенджер|https://vk.com|💬
+desktop.telegram.org|VK Мессенджер|https://vk.com|💬
+web.whatsapp.com|VK Мессенджер|https://vk.com|💬
+whatsapp.com|VK Мессенджер|https://vk.com|💬
+discord.com|VK Мессенджер|https://vk.com|💬
+discordapp.com|VK Мессенджер|https://vk.com|💬
+discord.gg|VK Мессенджер|https://vk.com|💬
+discord.media|VK Мессенджер|https://vk.com|💬
+discordcdn.com|VK Мессенджер|https://vk.com|💬
+slack.com|VK Мессенджер|https://vk.com|💬
+app.slack.com|VK Мессенджер|https://vk.com|💬
+slack-edge.com|VK Мессенджер|https://vk.com|💬
+zoom.us|VK Мессенджер|https://vk.com|💬
+teams.microsoft.com|VK Мессенджер|https://vk.com|💬
+meet.google.com|VK Мессенджер|https://vk.com|💬
+web.skype.com|VK Мессенджер|https://vk.com|💬
+skype.com|VK Мессенджер|https://vk.com|💬
+line.me|VK Мессенджер|https://vk.com|💬
+viber.com|VK Мессенджер|https://vk.com|💬
+wire.com|VK Мессенджер|https://vk.com|💬
+element.io|VK Мессенджер|https://vk.com|💬
+matrix.org|VK Мессенджер|https://vk.com|💬
+keybase.io|VK Мессенджер|https://vk.com|💬
+jabber.org|VK Мессенджер|https://vk.com|💬
+chat.google.com|VK Мессенджер|https://vk.com|💬
+groups.google.com|VK|https://vk.com|💬
+hangouts.google.com|VK Мессенджер|https://vk.com|💬
+altspacevr.com|VK|https://vk.com|💬
+
+# ==============================
+# ОБЛАЧНЫЕ ХРАНИЛИЩА
+# ==============================
+drive.google.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+docs.google.com|Яндекс.Документы|https://docs.yandex.ru|☁️
+sheets.google.com|Яндекс.Таблицы|https://docs.yandex.ru|☁️
+slides.google.com|Яндекс.Презентации|https://docs.yandex.ru|☁️
+forms.google.com|Яндекс.Формы|https://forms.yandex.ru|☁️
+dropbox.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+www.dropbox.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+icloud.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+onedrive.live.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+onedrive.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+box.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+mega.nz|Яндекс.Диск|https://disk.yandex.ru|☁️
+mega.co.nz|Яндекс.Диск|https://disk.yandex.ru|☁️
+mediafire.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+sendspace.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+4shared.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+wetransfer.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+file.io|Яндекс.Диск|https://disk.yandex.ru|☁️
+transfer.sh|Яндекс.Диск|https://disk.yandex.ru|☁️
+gofile.io|Яндекс.Диск|https://disk.yandex.ru|☁️
+anonfiles.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+catbox.moe|Яндекс.Диск|https://disk.yandex.ru|☁️
+filebin.net|Яндекс.Диск|https://disk.yandex.ru|☁️
+backblaze.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+pcloud.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+sync.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+egnyte.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+sugarsync.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+spideroak.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+tresorit.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+nextcloud.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+owncloud.org|Яндекс.Диск|https://disk.yandex.ru|☁️
+seafile.com|Яндекс.Диск|https://disk.yandex.ru|☁️
+
+# ==============================
+# ПЛАТЕЖИ И ФИНАНСЫ
+# ==============================
+paypal.com|СберПэй|https://www.sberbank.ru|💳
+www.paypal.com|СберПэй|https://www.sberbank.ru|💳
+stripe.com|ЮKassa|https://yookassa.ru|💳
+www.stripe.com|ЮKassa|https://yookassa.ru|💳
+wise.com|Тинькофф|https://www.tinkoff.ru|💳
+transferwise.com|Тинькофф|https://www.tinkoff.ru|💳
+revolut.com|Тинькофф|https://www.tinkoff.ru|💳
+square.com|ЮKassa|https://yookassa.ru|💳
+squareup.com|ЮKassa|https://yookassa.ru|💳
+venmo.com|СберПэй|https://www.sberbank.ru|💳
+cash.app|СберПэй|https://www.sberbank.ru|💳
+zellepay.com|СберПэй|https://www.sberbank.ru|💳
+affirm.com|Тинькофф|https://www.tinkoff.ru|💳
+klarna.com|Тинькофф|https://www.tinkoff.ru|💳
+afterpay.com|Тинькофф|https://www.tinkoff.ru|💳
+shopify.com|Wildberries|https://www.wildberries.ru|🛒
+amazon.com|Wildberries|https://www.wildberries.ru|🛒
+www.amazon.com|Wildberries|https://www.wildberries.ru|🛒
+amazon.co.uk|Wildberries|https://www.wildberries.ru|🛒
+amazon.de|Wildberries|https://www.wildberries.ru|🛒
+amazon.co.jp|Wildberries|https://www.wildberries.ru|🛒
+amazon.in|Wildberries|https://www.wildberries.ru|🛒
+amazon.com.au|Wildberries|https://www.wildberries.ru|🛒
+amazon.ca|Wildberries|https://www.wildberries.ru|🛒
+amazon.fr|Wildberries|https://www.wildberries.ru|🛒
+amazon.it|Wildberries|https://www.wildberries.ru|🛒
+amazon.es|Wildberries|https://www.wildberries.ru|🛒
+amazon.com.br|Wildberries|https://www.wildberries.ru|🛒
+amazon.com.mx|Wildberries|https://www.wildberries.ru|🛒
+ebay.com|Avito|https://www.avito.ru|🛒
+www.ebay.com|Avito|https://www.avito.ru|🛒
+ebay.co.uk|Avito|https://www.avito.ru|🛒
+ebay.de|Avito|https://www.avito.ru|🛒
+ebay.fr|Avito|https://www.avito.ru|🛒
+ebay.it|Avito|https://www.avito.ru|🛒
+ebay.es|Avito|https://www.avito.ru|🛒
+ebay.com.au|Avito|https://www.avito.ru|🛒
+ebay.ca|Avito|https://www.avito.ru|🛒
+ebay.nl|Avito|https://www.avito.ru|🛒
+etsy.com|Ярмарка Мастеров|https://yarmarka.ru|🎨
+www.etsy.com|Ярмарка Мастеров|https://yarmarka.ru|🎨
+aliexpress.com|AliExpress Россия|https://aliexpress.ru|🛒
+www.aliexpress.com|AliExpress Россия|https://aliexpress.ru|🛒
+alibaba.com|AliExpress Россия|https://aliexpress.ru|🛒
+wish.com|Wildberries|https://www.wildberries.ru|🛒
+www.wish.com|Wildberries|https://www.wildberries.ru|🛒
+bestbuy.com|DNS|https://www.dns-shop.ru|🛒
+target.com|Магнит|https://magnit.com|🛒
+walmart.com|Ашан|https://www.ashan.ru|🛒
+costco.com|Метро|https://metrocc.ru|🛒
+homedepot.com|Леруа Мерлен|https://leroymerlin.ru|🛒
+lowes.com|Петрович|https://petrovich.ru|🛒
+
+# ==============================
+# РАЗРАБОТКА
+# ==============================
+github.com|Gitee|https://gitee.com|💻
+www.github.com|Gitee|https://gitee.com|💻
+github.io|Gitee|https://gitee.com|💻
+githubusercontent.com|Gitee|https://gitee.com|💻
+githubassets.com|Gitee|https://gitee.com|💻
+gitlab.com|Gitee|https://gitee.com|💻
+www.gitlab.com|Gitee|https://gitee.com|💻
+bitbucket.org|Gitee|https://gitee.com|💻
+stackoverflow.com|Habr|https://habr.com|💻
+www.stackoverflow.com|Habr|https://habr.com|💻
+stackexchange.com|Habr|https://habr.com|💻
+superuser.com|Habr|https://habr.com|💻
+serverfault.com|Habr|https://habr.com|💻
+askubuntu.com|Habr|https://habr.com|💻
+dev.to|Habr|https://habr.com|💻
+hashnode.dev|Habr|https://habr.com|💻
+codepen.io|JSFiddle|https://jsfiddle.net|💻
+jsfiddle.net|Habr|https://habr.com|💻
+codesandbox.io|Habr|https://habr.com|💻
+repl.it|Habr|https://habr.com|💻
+glitch.com|Habr|https://habr.com|💻
+vercel.com|Habr|https://habr.com|💻
+netlify.com|Habr|https://habr.com|💻
+heroku.com|Habr|https://habr.com|💻
+aws.amazon.com|Яндекс.Облако|https://cloud.yandex.ru|☁️
+cloud.google.com|Яндекс.Облако|https://cloud.yandex.ru|☁️
+azure.microsoft.com|Яндекс.Облако|https://cloud.yandex.ru|☁️
+digitalocean.com|Яндекс.Облако|https://cloud.yandex.ru|☁️
+linode.com|Яндекс.Облако|https://cloud.yandex.ru|☁️
+vultr.com|Яндекс.Облако|https://cloud.yandex.ru|☁️
+ovhcloud.com|Яндекс.Облако|https://cloud.yandex.ru|☁️
+hetzner.com|Яндекс.Облако|https://cloud.yandex.ru|☁️
+nmap.org|Habr|https://habr.com|💻
+wireshark.org|Habr|https://habr.com|💻
+sourceforge.net|Habr|https://habr.com|💻
+crates.io|Habr|https://habr.com|💻
+npmjs.com|Habr|https://habr.com|💻
+rubygems.org|Habr|https://habr.com|💻
+pypi.org|Habr|https://habr.com|💻
+nuget.org|Habr|https://habr.com|💻
+pub.dev|Habr|https://habr.com|💻
+crystal-lang.org|Habr|https://habr.com|💻
+elixir-lang.org|Habr|https://habr.com|💻
+rust-lang.org|Habr|https://habr.com|💻
+go.dev|Habr|https://habr.com|💻
+dart.dev|Habr|https://habr.com|💻
+swift.org|Habr|https://habr.com|💻
+kotlinlang.org|Habr|https://habr.com|💻
+scala-lang.org|Habr|https://habr.com|💻
+clojure.org|Habr|https://habr.com|💻
+haskell.org|Habr|https://habr.com|💻
+ocaml.org|Habr|https://habr.com|💻
+erlang.org|Habr|https://habr.com|💻
+ziglang.org|Habr|https://habr.com|💻
+nim-lang.org|Habr|https://habr.com|💻
+v-lang.io|Habr|https://habr.com|💻
+red-lang.org|Habr|https://habr.com|💻
+
+# ==============================
+# ОБРАЗОВАНИЕ
+# ==============================
+coursera.org|Stepik|https://stepic.org|🎓
+www.coursera.org|Stepik|https://stepic.org|🎓
+edx.org|Stepik|https://stepic.org|🎓
+www.edx.org|Stepik|https://stepic.org|🎓
+udemy.com|Stepik|https://stepic.org|🎓
+www.udemy.com|Stepik|https://stepic.org|🎓
+udacity.com|Stepik|https://stepic.org|🎓
+skillshare.com|Stepik|https://stepic.org|🎓
+pluralsight.com|Stepik|https://stepic.org|🎓
+codecademy.com|Stepik|https://stepic.org|🎓
+freecodecamp.org|Stepik|https://stepic.org|🎓
+theodinproject.com|Stepik|https://stepic.org|🎓
+kaggle.com|Stepik|https://stepic.org|🎓
+khanacademy.org|Stepik|https://stepic.org|🎓
+masterclass.com|Stepik|https://stepic.org|🎓
+duolingo.com|Babbel|https://www.babbel.com|🎓
+busuu.com|Stepik|https://stepic.org|🎓
+memrise.com|Stepik|https://stepic.org|🎓
+brilliant.org|Stepik|https://stepic.org|🎓
+brilliant.com|Stepik|https://stepic.org|🎓
+leetcode.com|Habr|https://habr.com|💻
+hackerrank.com|Habr|https://habr.com|💻
+codewars.com|Habr|https://habr.com|💻
+topcoder.com|Habr|https://habr.com|💻
+codeforces.com|Habr|https://habr.com|💻
+atcoder.jp|Habr|https://habr.com|💻
+dmoj.ca|Habr|https://habr.com|💻
+sputnik.ru|Stepik|https://stepic.org|🎓
+openedu.ru|Stepik|https://stepic.org|🎓
+foxford.ru|Stepik|https://stepic.org|🎓
+
+# ==============================
+# ВИКИПЕДИЯ И ЭНЦИКЛОПЕДИИ
+# ==============================
+wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+en.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+ru.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+de.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+fr.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+es.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+it.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+ja.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+zh.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+pt.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+nl.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+pl.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+sv.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+no.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+fi.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+da.wikipedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+commons.wikimedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+wiktionary.org|Большая российская энциклопедия|https://bigenc.ru|📚
+wikiquote.org|Большая российская энциклопедия|https://bigenc.ru|📚
+wikibooks.org|Большая российская энциклопедия|https://bigenc.ru|📚
+wikisource.org|Большая российская энциклопедия|https://bigenc.ru|📚
+wikiversity.org|Большая российская энциклопедия|https://bigenc.ru|📚
+wikidata.org|Большая российская энциклопедия|https://bigenc.ru|📚
+mediawiki.org|Большая российская энциклопедия|https://bigenc.ru|📚
+wikivoyage.org|Большая российская энциклопедия|https://bigenc.ru|📚
+britannica.com|Большая российская энциклопедия|https://bigenc.ru|📚
+www.britannica.com|Большая российская энциклопедия|https://bigenc.ru|📚
+encyclopedia.com|Большая российская энциклопедия|https://bigenc.ru|📚
+scholarpedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+everything2.com|Большая российская энциклопедия|https://bigenc.ru|📚
+infogalactic.com|Большая российская энциклопедия|https://bigenc.ru|📚
+dbpedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+freebase.com|Большая российская энциклопедия|https://bigenc.ru|📚
+conceptnet.io|Большая российская энциклопедия|https://bigenc.ru|📚
+citizendium.org|Большая российская энциклопедия|https://bigenc.ru|📚
+conservapedia.com|Большая российская энциклопедия|https://bigenc.ru|📚
+rationalwiki.org|Большая российская энциклопедия|https://bigenc.ru|📚
+scholarpedia.org|Большая российская энциклопедия|https://bigenc.ru|📚
+
+# ==============================
+# НОВОСТИ
+# ==============================
+cnn.com|РИА Новости|https://ria.ru|📰
+www.cnn.com|РИА Новости|https://ria.ru|📰
+bbc.com|ТАСС|https://tass.ru|📰
+www.bbc.com|ТАСС|https://tass.ru|📰
+bbc.co.uk|ТАСС|https://tass.ru|📰
+reuters.com|ТАСС|https://tass.ru|📰
+www.reuters.com|ТАСС|https://tass.ru|📰
+apnews.com|ТАСС|https://tass.ru|📰
+ap.org|ТАСС|https://tass.ru|📰
+nytimes.com|Коммерсантъ|https://www.kommersant.ru|📰
+www.nytimes.com|Коммерсантъ|https://www.kommersant.ru|📰
+washingtonpost.com|Коммерсантъ|https://www.kommersant.ru|📰
+www.washingtonpost.com|Коммерсантъ|https://www.kommersant.ru|📰
+theguardian.com|Коммерсантъ|https://www.kommersant.ru|📰
+www.theguardian.com|Коммерсантъ|https://www.kommersant.ru|📰
+theguardian.co.uk|Коммерсантъ|https://www.kommersant.ru|📰
+ft.com|Коммерсантъ|https://www.kommersant.ru|📰
+www.ft.com|Коммерсантъ|https://www.kommersant.ru|📰
+wsj.com|Коммерсантъ|https://www.kommersant.ru|📰
+www.wsj.com|Коммерсантъ|https://www.kommersant.ru|📰
+economist.com|Коммерсантъ|https://www.kommersant.ru|📰
+www.economist.com|Коммерсантъ|https://www.kommersant.ru|📰
+bloomberg.com|Коммерсантъ|https://www.kommersant.ru|📰
+www.bloomberg.com|Коммерсантъ|https://www.kommersant.ru|📰
+forbes.com|РБК|https://www.rbc.ru|💰
+www.forbes.com|РБК|https://www.rbc.ru|💰
+businessinsider.com|РБК|https://www.rbc.ru|💰
+www.businessinsider.com|РБК|https://www.rbc.ru|💰
+techcrunch.com|Habr|https://habr.com|💻
+www.techcrunch.com|Habr|https://habr.com|💻
+theverge.com|Habr|https://habr.com|💻
+www.theverge.com|Habr|https://habr.com|💻
+arstechnica.com|Habr|https://habr.com|💻
+wired.com|Habr|https://habr.com|💻
+www.wired.com|Habr|https://habr.com|💻
+engadget.com|Habr|https://habr.com|💻
+mashable.com|Habr|https://habr.com|💻
+gizmodo.com|Habr|https://habr.com|💻
+zdnet.com|Habr|https://habr.com|💻
+cnet.com|Habr|https://habr.com|💻
+www.cnet.com|Habr|https://habr.com|💻
+theinformation.com|Habr|https://habr.com|💻
+protocol.com|Habr|https://habr.com|💻
+decrypt.co|Habr|https://habr.com|💻
+coindesk.com|Habr|https://habr.com|💻
+cointelegraph.com|Habr|https://habr.com|💻
+theblockcrypto.com|Habr|https://habr.com|💻
+axios.com|РБК|https://www.rbc.ru|📰
+thehill.com|РБК|https://www.rbc.ru|📰
+politico.com|РБК|https://www.rbc.ru|📰
+huffpost.com|Дзен|https://dzen.ru|📰
+vice.com|Дзен|https://dzen.ru|📰
+www.vice.com|Дзен|https://dzen.ru|📰
+salon.com|Дзен|https://dzen.ru|📰
+slate.com|Дзен|https://dzen.ru|📰
+thepointswithlarry.com|Дзен|https://dzen.ru|📰
+nypost.com|Дзен|https://dzen.ru|📰
+dailymail.co.uk|Дзен|https://dzen.ru|📰
+www.dailymail.co.uk|Дзен|https://dzen.ru|📰
+mirror.co.uk|Дзен|https://dzen.ru|📰
+thesun.co.uk|Дзен|https://dzen.ru|📰
+express.co.uk|Дзен|https://dzen.ru|📰
+metro.co.uk|Дзен|https://dzen.ru|📰
+independent.co.uk|Дзен|https://dzen.ru|📰
+www.independent.co.uk|Дзен|https://dzen.ru|📰
+standard.co.uk|Дзен|https://dzen.ru|📰
+telegraph.co.uk|Дзен|https://dzen.ru|📰
+www.telegraph.co.uk|Дзен|https://dzen.ru|📰
+aol.com/news|РИА Новости|https://ria.ru|📰
+huffingtonpost.com|Дзен|https://dzen.ru|📰
+newsweek.com|Дзен|https://dzen.ru|📰
+time.com|Дзен|https://dzen.ru|📰
+www.time.com|Дзен|https://dzen.ru|📰
+usatoday.com|Дзен|https://dzen.ru|📰
+latimes.com|Дзен|https://dzen.ru|📰
+www.latimes.com|Дзен|https://dzen.ru|📰
+chicagotribune.com|Дзен|https://dzen.ru|📰
+bostonglobe.com|Дзен|https://dzen.ru|📰
+nbcnews.com|Дзен|https://dzen.ru|📰
+www.nbcnews.com|Дзен|https://dzen.ru|📰
+abcnews.go.com|Дзен|https://dzen.ru|📰
+cbsnews.com|Дзен|https://dzen.ru|📰
+foxnews.com|Дзен|https://dzen.ru|📰
+www.foxnews.com|Дзен|https://dzen.ru|📰
+nypost.com|Дзен|https://dzen.ru|📰
+dailywire.com|Дзен|https://dzen.ru|📰
+breitbart.com|Дзен|https://dzen.ru|📰
+theblaze.com|Дзен|https://dzen.ru|📰
+infowars.com|Дзен|https://dzen.ru|📰
+rt.com|РИА Новости|https://ria.ru|📰
+tass.com|ТАСС|https://tass.ru|📰
+sputniknews.com|РИА Новости|https://ria.ru|📰
+presstv.com|РИА Новости|https://ria.ru|📰
+aljazeera.com|РИА Новости|https://ria.ru|📰
+www.aljazeera.com|РИА Новости|https://ria.ru|📰
+dw.com|Дзен|https://dzen.ru|📰
+www.dw.com|Дзен|https://dzen.ru|📰
+euronews.com|Дзен|https://dzen.ru|📰
+www.euronews.com|Дзен|https://dzen.ru|📰
+france24.com|Дзен|https://dzen.ru|📰
+abc.net.au|Дзен|https://dzen.ru|📰
+cbc.ca|Дзен|https://dzen.ru|📰
+ctvnews.ca|Дзен|https://dzen.ru|📰
+indiatimes.com|Дзен|https://dzen.ru|📰
+straitstimes.com|Дзен|https://dzen.ru|📰
+globaltimes.cn|Дзен|https://dzen.ru|📰
+scmp.com|Дзен|https://dzen.ru|📰
+japantimes.co.jp|Дзен|https://dzen.ru|📰
+koreatimes.co.kr|Дзен|https://dzen.ru|📰
+timesofindia.com|Дзен|https://dzen.ru|📰
+ndtv.com|Дзен|https://dzen.ru|📰
+firstpost.com|Дзен|https://dzen.ru|📰
+gulfnews.com|Дзен|https://dzen.ru|📰
+thenational.ae|Дзен|https://dzen.ru|📰
+arabnews.com|Дзен|https://dzen.ru|📰
+middleeasteye.net|Дзен|https://dzen.ru|📰
+haaretz.com|Дзен|https://dzen.ru|📰
+jpost.com|Дзен|https://dzen.ru|📰
+i24news.tv|Дзен|https://dzen.ru|📰
+timesofisrael.com|Дзен|https://dzen.ru|📰
+rtbf.be|Дзен|https://dzen.ru|📰
+rtve.es|Дзен|https://dzen.ru|📰
+rai.it|Дзен|https://dzen.ru|📰
+ndr.de|Дзен|https://dzen.ru|📰
+ard.de|Дзен|https://dzen.ru|📰
+zdf.de|Дзен|https://dzen.ru|📰
+orf.at|Дзен|https://dzen.ru|📰
+srf.ch|Дзен|https://dzen.ru|📰
+nrk.no|Дзен|https://dzen.ru|📰
+dr.dk|Дзен|https://dzen.ru|📰
+svt.se|Дзен|https://dzen.ru|📰
+yle.fi|Дзен|https://dzen.ru|📰
+tvp.pl|Дзен|https://dzen.ru|📰
+tve.es|Дзен|https://dzen.ru|📰
+rtsh.al|Дзен|https://dzen.ru|📰
+
+# ==============================
+# БЛОГИ И ПЛАТФОРМЫ
+# ==============================
+medium.com|Дзен|https://dzen.ru|📰
+www.medium.com|Дзен|https://dzen.ru|📰
+substack.com|Дзен|https://dzen.ru|📰
+www.substack.com|Дзен|https://dzen.ru|📰
+blogspot.com|Дзен|https://dzen.ru|📰
+blogger.com|Дзен|https://dzen.ru|📰
+wordpress.com|Дзен|https://dzen.ru|📰
+www.wordpress.com|Дзен|https://dzen.ru|📰
+tumblr.com|Дзен|https://dzen.ru|📰
+livejournal.com|Дзен|https://dzen.ru|📰
+www.livejournal.com|Дзен|https://dzen.ru|📰
+typepad.com|Дзен|https://dzen.ru|📰
+ghost.io|Дзен|https://dzen.ru|📰
+notion.so|Яндекс.Диск|https://disk.yandex.ru|📋
+www.notion.so|Яндекс.Диск|https://disk.yandex.ru|📋
+notion.site|Яндекс.Диск|https://disk.yandex.ru|📋
+confluence.atlassian.com|Яндекс.Диск|https://disk.yandex.ru|📋
+trello.com|Яндекс.Диск|https://disk.yandex.ru|📋
+asana.com|Яндекс.Диск|https://disk.yandex.ru|📋
+monday.com|Яндекс.Диск|https://disk.yandex.ru|📋
+clickup.com|Яндекс.Диск|https://disk.yandex.ru|📋
+basecamp.com|Яндекс.Диск|https://disk.yandex.ru|📋
+airtable.com|Яндекс.Диск|https://disk.yandex.ru|📋
+miro.com|Яндекс|https://yandex.ru|🎨
+figma.com|VK|https://vk.com|🎨
+www.figma.com|VK|https://vk.com|🎨
+canva.com|VK|https://vk.com|🎨
+www.canva.com|VK|https://vk.com|🎨
+sketch.com|VK|https://vk.com|🎨
+adobe.com|VK|https://vk.com|🎨
+www.adobe.com|VK|https://vk.com|🎨
+photoshop.com|VK|https://vk.com|🎨
+lightroom.com|VK|https://vk.com|🎨
+premiere.com|VK|https://vk.com|🎨
+aftereffects.com|VK|https://vk.com|🎨
+behance.net|VK|https://vk.com|🎨
+dribbble.com|VK|https://vk.com|🎨
+www.dribbble.com|VK|https://vk.com|🎨
+deviantart.com|VK|https://vk.com|🎨
+artstation.com|VK|https://vk.com|🎨
+pixiv.net|VK|https://vk.com|🎨
+www.pixiv.net|VK|https://vk.com|🎨
+500px.com|VK|https://vk.com|🎨
+unsplash.com|VK|https://vk.com|🎨
+www.unsplash.com|VK|https://vk.com|🎨
+pexels.com|VK|https://vk.com|🎨
+www.pexels.com|VK|https://vk.com|🎨
+shutterstock.com|VK|https://vk.com|🎨
+istockphoto.com|VK|https://vk.com|🎨
+gettyimages.com|VK|https://vk.com|🎨
+depositphotos.com|VK|https://vk.com|🎨
+dreamstime.com|VK|https://vk.com|🎨
+123rf.com|VK|https://vk.com|🎨
+flickr.com|VK|https://vk.com|🎨
+www.flickr.com|VK|https://vk.com|🎨
+500px.com|VK|https://vk.com|🎨
+smugmug.com|VK|https://vk.com|🎨
+photoshelter.com|VK|https://vk.com|🎨
+
+# ==============================
+# МУЗЫКА
+# ==============================
+spotify.com|VK Музыка|https://vk.com/audio|🎵
+open.spotify.com|VK Музыка|https://vk.com/audio|🎵
+www.spotify.com|VK Музыка|https://vk.com/audio|🎵
+soundcloud.com|VK Музыка|https://vk.com/audio|🎵
+www.soundcloud.com|VK Музыка|https://vk.com/audio|🎵
+music.apple.com|VK Музыка|https://vk.com/audio|🎵
+deezer.com|VK Музыка|https://vk.com/audio|🎵
+www.deezer.com|VK Музыка|https://vk.com/audio|🎵
+tidal.com|VK Музыка|https://vk.com/audio|🎵
+www.tidal.com|VK Музыка|https://vk.com/audio|🎵
+pandora.com|VK Музыка|https://vk.com/audio|🎵
+www.pandora.com|VK Музыка|https://vk.com/audio|🎵
+iheart.com|VK Музыка|https://vk.com/audio|🎵
+last.fm|VK Музыка|https://vk.com/audio|🎵
+www.last.fm|VK Музыка|https://vk.com/audio|🎵
+genius.com|VK Музыка|https://vk.com/audio|🎵
+www.genius.com|VK Музыка|https://vk.com/audio|🎵
+musixmatch.com|VK Музыка|https://vk.com/audio|🎵
+bandcamp.com|VK Музыка|https://vk.com/audio|🎵
+www.bandcamp.com|VK Музыка|https://vk.com/audio|🎵
+audiomack.com|VK Музыка|https://vk.com/audio|🎵
+napster.com|VK Музыка|https://vk.com/audio|🎵
+qobuz.com|VK Музыка|https://vk.com/audio|🎵
+audiomicro.com|VK Музыка|https://vk.com/audio|🎵
+epidemicsound.com|VK Музыка|https://vk.com/audio|🎵
+artlist.io|VK Музыка|https://vk.com/audio|🎵
+musicbed.com|VK Музыка|https://vk.com/audio|🎵
+tunecore.com|VK Музыка|https://vk.com/audio|🎵
+distrokid.com|VK Музыка|https://vk.com/audio|🎵
+landr.com|VK Музыка|https://vk.com/audio|🎵
+bandlab.com|VK Музыка|https://vk.com/audio|🎵
+splice.com|VK Музыка|https://vk.com/audio|🎵
+native-instruments.com|VK Музыка|https://vk.com/audio|🎵
+ableton.com|VK Музыка|https://vk.com/audio|🎵
+www.ableton.com|VK Музыка|https://vk.com/audio|🎵
+image-line.com|VK Музыка|https://vk.com/audio|🎵
+propellerheads.se|VK Музыка|https://vk.com/audio|🎵
+steinberg.net|VK Музыка|https://vk.com/audio|🎵
+pluginboutique.com|VK Музыка|https://vk.com/audio|🎵
+splice.com|VK Музыка|https://vk.com/audio|🎵
+
+# ==============================
+# ИГРЫ
+# ==============================
+store.steampowered.com|VK Play|https://vkplay.ru|🎮
+steampowered.com|VK Play|https://vkplay.ru|🎮
+steamcommunity.com|VK Play|https://vkplay.ru|🎮
+store.epicgames.com|VK Play|https://vkplay.ru|🎮
+epicgames.com|VK Play|https://vkplay.ru|🎮
+www.epicgames.com|VK Play|https://vkplay.ru|🎮
+gog.com|VK Play|https://vkplay.ru|🎮
+www.gog.com|VK Play|https://vkplay.ru|🎮
+gogalaxy.com|VK Play|https://vkplay.ru|🎮
+origin.com|VK Play|https://vkplay.ru|🎮
+ubisoft.com|VK Play|https://vkplay.ru|🎮
+battle.net|VK Play|https://vkplay.ru|🎮
+blizzard.com|VK Play|https://vkplay.ru|🎮
+ea.com|VK Play|https://vkplay.ru|🎮
+www.ea.com|VK Play|https://vkplay.ru|🎮
+playstation.com|VK Play|https://vkplay.ru|🎮
+www.playstation.com|VK Play|https://vkplay.ru|🎮
+xbox.com|VK Play|https://vkplay.ru|🎮
+www.xbox.com|VK Play|https://vkplay.ru|🎮
+nintendo.com|VK Play|https://vkplay.ru|🎮
+www.nintendo.com|VK Play|https://vkplay.ru|🎮
+store.steampowered.com|VK Play|https://vkplay.ru|🎮
+g2a.com|VK Play|https://vkplay.ru|🎮
+www.g2a.com|VK Play|https://vkplay.ru|🎮
+kinguin.net|VK Play|https://vkplay.ru|🎮
+cdkeys.com|VK Play|https://vkplay.ru|🎮
+humblebundle.com|VK Play|https://vkplay.ru|🎮
+www.humblebundle.com|VK Play|https://vkplay.ru|🎮
+itch.io|VK Play|https://vkplay.ru|🎮
+www.itch.io|VK Play|https://vkplay.ru|🎮
+newgrounds.com|VK Play|https://vkplay.ru|🎮
+roblox.com|VK Play|https://vkplay.ru|🎮
+www.roblox.com|VK Play|https://vkplay.ru|🎮
+fortnite.com|VK Play|https://vkplay.ru|🎮
+www.fortnite.com|VK Play|https://vkplay.ru|🎮
+minecraft.net|VK Play|https://vkplay.ru|🎮
+www.minecraft.net|VK Play|https://vkplay.ru|🎮
+leagueoflegends.com|VK Play|https://vkplay.ru|🎮
+valorant.com|VK Play|https://vkplay.ru|🎮
+overwatch.com|VK Play|https://vkplay.ru|🎮
+apexlegends.com|VK Play|https://vkplay.ru|🎮
+callofduty.com|VK Play|https://vkplay.ru|🎮
+battlefield.com|VK Play|https://vkplay.ru|🎮
+counter-strike.net|VK Play|https://vkplay.ru|🎮
+dota2.com|VK Play|https://vkplay.ru|🎮
+pubg.com|VK Play|https://vkplay.ru|🎮
+genshin.hoyoverse.com|VK Play|https://vkplay.ru|🎮
+playvalorant.com|VK Play|https://vkplay.ru|🎮
+genshin.hoyoverse.com|VK Play|https://vkplay.ru|🎮
+starcraft.com|VK Play|https://vkplay.ru|🎮
+warcraft.com|VK Play|https://vkplay.ru|🎮
+diablo.com|VK Play|https://vkplay.ru|🎮
+hearthstone.com|VK Play|https://vkplay.ru|🎮
+lostark.game|VK Play|https://vkplay.ru|🎮
+newworld.com|VK Play|https://vkplay.ru|🎮
+thefinals.com|VK Play|https://vkplay.ru|🎮
+deeprockgalactic.com|VK Play|https://vkplay.ru|🎮
+helldivers.com|VK Play|https://vkplay.ru|🎮
+steamdb.info|VK Play|https://vkplay.ru|🎮
+protondb.com|VK Play|https://vkplay.ru|🎮
+howlongtobeat.com|VK Play|https://vkplay.ru|🎮
+metacritic.com|VK Play|https://vkplay.ru|🎮
+www.metacritic.com|VK Play|https://vkplay.ru|🎮
+opencritic.com|VK Play|https://vkplay.ru|🎮
+giantbomb.com|VK Play|https://vkplay.ru|🎮
+ign.com|VK Play|https://vkplay.ru|🎮
+www.ign.com|VK Play|https://vkplay.ru|🎮
+gamespot.com|VK Play|https://vkplay.ru|🎮
+www.gamespot.com|VK Play|https://vkplay.ru|🎮
+kotaku.com|VK Play|https://vkplay.ru|🎮
+www.kotaku.com|VK Play|https://vkplay.ru|🎮
+eurogamer.net|VK Play|https://vkplay.ru|🎮
+polygon.com|VK Play|https://vkplay.ru|🎮
+www.polygon.com|VK Play|https://vkplay.ru|🎮
+pcgamer.com|VK Play|https://vkplay.ru|🎮
+rockpapershotgun.com|VK Play|https://vkplay.ru|🎮
+dualshockers.com|VK Play|https://vkplay.ru|🎮
+gamesradar.com|VK Play|https://vkplay.ru|🎮
+pushsquare.com|VK Play|https://vkplay.ru|🎮
+nintendolife.com|VK Play|https://vkplay.ru|🎮
+purexbox.com|VK Play|https://vkplay.ru|🎮
+videogameschronicle.com|VK Play|https://vkplay.ru|🎮
+
+# ==============================
+# ТЕХНОЛОГИИ
+# ==============================
+apple.com|Яндекс|https://yandex.ru|🍎
+www.apple.com|Яндекс|https://yandex.ru|🍎
+microsoft.com|Яндекс|https://yandex.ru|💻
+www.microsoft.com|Яндекс|https://yandex.ru|💻
+windows.com|Яндекс|https://yandex.ru|💻
+windowsupdate.com|Яндекс|https://yandex.ru|💻
+samsung.com|Яндекс|https://yandex.ru|📱
+www.samsung.com|Яндекс|https://yandex.ru|📱
+sony.com|Яндекс|https://yandex.ru|🎮
+www.sony.com|Яндекс|https://yandex.ru|🎮
+lg.com|Яндекс|https://yandex.ru|📺
+www.lg.com|Яндекс|https://yandex.ru|📺
+dell.com|Яндекс|https://yandex.ru|💻
+www.dell.com|Яндекс|https://yandex.ru|💻
+hp.com|Яндекс|https://yandex.ru|💻
+www.hp.com|Яндекс|https://yandex.ru|💻
+lenovo.com|Яндекс|https://yandex.ru|💻
+www.lenovo.com|Яндекс|https://yandex.ru|💻
+asus.com|Яндекс|https://yandex.ru|💻
+www.asus.com|Яндекс|https://yandex.ru|💻
+acer.com|Яндекс|https://yandex.ru|💻
+www.acer.com|Яндекс|https://yandex.ru|💻
+nvidia.com|Яндекс|https://yandex.ru|🎮
+www.nvidia.com|Яндекс|https://yandex.ru|🎮
+amd.com|Яндекс|https://yandex.ru|💻
+www.amd.com|Яндекс|https://yandex.ru|💻
+intel.com|Яндекс|https://yandex.ru|💻
+www.intel.com|Яндекс|https://yandex.ru|💻
+qualcomm.com|Яндекс|https://yandex.ru|📱
+www.qualcomm.com|Яндекс|https://yandex.ru|📱
+broadcom.com|Яндекс|https://yandex.ru|💻
+cisco.com|Яндекс|https://yandex.ru|💻
+www.cisco.com|Яндекс|https://yandex.ru|💻
+ibm.com|Яндекс|https://yandex.ru|💻
+www.ibm.com|Яндекс|https://yandex.ru|💻
+oracle.com|Яндекс|https://yandex.ru|💻
+www.oracle.com|Яндекс|https://yandex.ru|💻
+salesforce.com|Яндекс|https://yandex.ru|💻
+www.salesforce.com|Яндекс|https://yandex.ru|💻
+vmware.com|Яндекс|https://yandex.ru|💻
+www.vmware.com|Яндекс|https://yandex.ru|💻
+docker.com|Яндекс|https://yandex.ru|💻
+www.docker.com|Яндекс|https://yandex.ru|💻
+redhat.com|Яндекс|https://yandex.ru|💻
+www.redhat.com|Яндекс|https://yandex.ru|💻
+suse.com|Яндекс|https://yandex.ru|💻
+canonical.com|Яндекс|https://yandex.ru|💻
+debian.org|Яндекс|https://yandex.ru|💻
+ubuntu.com|Яндекс|https://yandex.ru|💻
+www.ubuntu.com|Яндекс|https://yandex.ru|💻
+fedoraproject.org|Яндекс|https://yandex.ru|💻
+linuxmint.com|Яндекс|https://yandex.ru|💻
+centos.org|Яндекс|https://yandex.ru|💻
+archlinux.org|Яндекс|https://yandex.ru|💻
+manjaro.org|Яндекс|https://yandex.ru|💻
+opensuse.org|Яндекс|https://yandex.ru|💻
+elementary.io|Яндекс|https://yandex.ru|💻
+pop.system76.com|Яндекс|https://yandex.ru|💻
+garudalinux.org|Яндекс|https://yandex.ru|💻
+endeavouros.com|Яндекс|https://yandex.ru|💻
+raspberrypi.org|Яндекс|https://yandex.ru|💻
+arduino.cc|Яндекс|https://yandex.ru|💻
+raspberry.org|Яндекс|https://yandex.ru|💻
+sparkfun.com|Яндекс|https://yandex.ru|💻
+adafruit.com|Яндекс|https://yandex.ru|💻
+
+# ==============================
+# ИИ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ
+# ==============================
+openai.com|Яндекс|https://yandex.ru|🤖
+chat.openai.com|Яндекс|https://yandex.ru|🤖
+chatgpt.com|Яндекс|https://yandex.ru|🤖
+claude.ai|Яндекс|https://yandex.ru|🤖
+anthropic.com|Яндекс|https://yandex.ru|🤖
+www.anthropic.com|Яндекс|https://yandex.ru|🤖
+bard.google.com|Яндекс|https://yandex.ru|🤖
+gemini.google.com|Яндекс|https://yandex.ru|🤖
+bing.com/chat|Яндекс|https://yandex.ru|🤖
+copilot.microsoft.com|Яндекс|https://yandex.ru|🤖
+midjourney.com|Яндекс|https://yandex.ru|🎨
+www.midjourney.com|Яндекс|https://yandex.ru|🎨
+stability.ai|Яндекс|https://yandex.ru|🎨
+www.stability.ai|Яндекс|https://yandex.ru|🎨
+craiyon.com|Яндекс|https://yandex.ru|🎨
+dreamstudio.ai|Яндекс|https://yandex.ru|🎨
+leonardo.ai|Яндекс|https://yandex.ru|🎨
+runwayml.com|Яндекс|https://yandex.ru|🎨
+www.runwayml.com|Яндекс|https://yandex.ru|🎨
+synthesia.io|Яндекс|https://yandex.ru|🎬
+heygen.com|Яндекс|https://yandex.ru|🎬
+d-id.com|Яндекс|https://yandex.ru|🎬
+resemble.ai|Яндекс|https://yandex.ru|🎵
+elevenlabs.io|Яндекс|https://yandex.ru|🎵
+www.elevenlabs.io|Яндекс|https://yandex.ru|🎵
+descript.com|Яндекс|https://yandex.ru|🎬
+huggingface.co|Яндекс|https://yandex.ru|🤖
+www.huggingface.co|Яндекс|https://yandex.ru|🤖
+replicate.com|Яндекс|https://yandex.ru|🤖
+together.ai|Яндекс|https://yandex.ru|🤖
+perplexity.ai|Яндекс|https://yandex.ru|🤖
+www.perplexity.ai|Яндекс|https://yandex.ru|🤖
+you.com|Яндекс|https://yandex.ru|🤖
+phind.com|Яндекс|https://yandex.ru|🤖
+kagi.com|Яндекс|https://yandex.ru|🤖
+inflection.ai|Яндекс|https://yandex.ru|🤖
+cohere.com|Яндекс|https://yandex.ru|🤖
+www.cohere.com|Яндекс|https://yandex.ru|🤖
+ai21.com|Яндекс|https://yandex.ru|🤖
+character.ai|Яндекс|https://yandex.ru|🤖
+www.character.ai|Яндекс|https://yandex.ru|🤖
+replika.ai|Яндекс|https://yandex.ru|🤖
+janitorai.com|Яндекс|https://yandex.ru|🤖
+crushon.ai|Яндекс|https://yandex.ru|🤖
+candy.ai|Яндекс|https://yandex.ru|🤖
+dreamgf.ai|Яндекс|https://yandex.ru|🤖
+kupid.ai|Яндекс|https://yandex.ru|🤖
+spicychat.ai|Яндекс|https://yandex.ru|🤖
+chai-research.com|Яндекс|https://yandex.ru|🤖
+together.xyz|Яндекс|https://yandex.ru|🤖
+novelai.net|Яндекс|https://yandex.ru|🤖
+waifulabs.com|Яндекс|https://yandex.ru|🎨
+thispersondoesnotexist.com|Яндекс|https://yandex.ru|🎨
+whichfaceisreal.com|Яндекс|https://yandex.ru|🎨
+deepswap.ai|Яндекс|https://yandex.ru|🎭
+deepfakesweb.com|Яндекс|https://yandex.ru|🎭
+facefusion.github.io|Яндекс|https://yandex.ru|🎭
+roop.github.io|Яндекс|https://yandex.ru|🎭
+lensa.ai|Яндекс|https://yandex.ru|🎨
+lightricks.com|Яндекс|https://yandex.ru|🎨
+remini.ai|Яндекс|https://yandex.ru|🎨
+facetune.com|Яндекс|https://yandex.ru|🎨
+prisma-labs.com|Яндекс|https://yandex.ru|🎨
+
+# ==============================
+# VPN И ПРОКСИ
+# ==============================
+nordvpn.com|Яндекс|https://yandex.ru|🔒
+www.nordvpn.com|Яндекс|https://yandex.ru|🔒
+expressvpn.com|Яндекс|https://yandex.ru|🔒
+www.expressvpn.com|Яндекс|https://yandex.ru|🔒
+surfshark.com|Яндекс|https://yandex.ru|🔒
+www.surfshark.com|Яндекс|https://yandex.ru|🔒
+protonvpn.com|Яндекс|https://yandex.ru|🔒
+www.protonvpn.com|Яндекс|https://yandex.ru|🔒
+privateinternetaccess.com|Яндекс|https://yandex.ru|🔒
+www.privateinternetaccess.com|Яндекс|https://yandex.ru|🔒
+cyberghostvpn.com|Яндекс|https://yandex.ru|🔒
+www.cyberghostvpn.com|Яндекс|https://yandex.ru|🔒
+hotspotshield.com|Яндекс|https://yandex.ru|🔒
+www.hotspotshield.com|Яндекс|https://yandex.ru|🔒
+tunnelbear.com|Яндекс|https://yandex.ru|🔒
+www.tunnelbear.com|Яндекс|https://yandex.ru|🔒
+windscribe.com|Яндекс|https://yandex.ru|🔒
+www.windscribe.com|Яндекс|https://yandex.ru|🔒
+hide.me|Яндекс|https://yandex.ru|🔒
+www.hide.me|Яндекс|https://yandex.ru|🔒
+ipleak.net|Яндекс|https://yandex.ru|🔒
+whatismyipaddress.com|Яндекс|https://yandex.ru|🔒
+ipinfo.io|Яндекс|https://yandex.ru|🔒
+ipify.org|Яндекс|https://yandex.ru|🔒
+check.torproject.org|Яндекс|https://yandex.ru|🔒
+torproject.org|Яндекс|https://yandex.ru|🔒
+www.torproject.org|Яндекс|https://yandex.ru|🔒
+bridges.torproject.org|Яндекс|https://yandex.ru|🔒
+tails.net|Яндекс|https://yandex.ru|🔒
+www.tails.net|Яндекс|https://yandex.ru|🔒
+whonix.org|Яндекс|https://yandex.ru|🔒
+qubes-os.org|Яндекс|https://yandex.ru|🔒
+openvpn.net|Яндекс|https://yandex.ru|🔒
+wireguard.com|Яндекс|https://yandex.ru|🔒
+www.wireguard.com|Яндекс|https://yandex.ru|🔒
+shadowsocks.org|Яндекс|https://yandex.ru|🔒
+v2ray.com|Яндекс|https://yandex.ru|🔒
+outline-vpn.com|Яндекс|https://yandex.ru|🔒
+getlantern.org|Яндекс|https://yandex.ru|🔒
+psiphon.ca|Яндекс|https://yandex.ru|🔒
+www.psiphon.ca|Яндекс|https://yandex.ru|🔒
+bridge.modeemi.fi|Яндекс|https://yandex.ru|🔒
+freehaven.net|Яндекс|https://yandex.ru|🔒
+anonymizer SECURE|Яндекс|https://yandex.ru|🔒
+
+# ==============================
+# КРИПТОВАЛЮТЫ
+# ==============================
+coinbase.com|Тинькофф|https://www.tinkoff.ru|💰
+www.coinbase.com|Тинькофф|https://www.tinkoff.ru|💰
+binance.com|Тинькофф|https://www.tinkoff.ru|💰
+www.binance.com|Тинькофф|https://www.tinkoff.ru|💰
+kraken.com|Тинькофф|https://www.tinkoff.ru|💰
+www.kraken.com|Тинькофф|https://www.tinkoff.ru|💰
+bitstamp.net|Тинькофф|https://www.tinkoff.ru|💰
+www.bitstamp.net|Тинькофф|https://www.tinkoff.ru|💰
+bitfinex.com|Тинькофф|https://www.tinkoff.ru|💰
+huobi.com|Тинькофф|https://www.tinkoff.ru|💰
+www.huobi.com|Тинькофф|https://www.tinkoff.ru|💰
+okex.com|Тинькофф|https://www.tinkoff.ru|💰
+www.okex.com|Тинькофф|https://www.tinkoff.ru|💰
+kucoin.com|Тинькофф|https://www.tinkoff.ru|💰
+www.kucoin.com|Тинькофф|https://www.tinkoff.ru|💰
+crypto.com|Тинькофф|https://www.tinkoff.ru|💰
+www.crypto.com|Тинькофф|https://www.tinkoff.ru|💰
+gate.io|Тинькофф|https://www.tinkoff.ru|💰
+www.gate.io|Тинькофф|https://www.tinkoff.ru|💰
+bybit.com|Тинькофф|https://www.tinkoff.ru|💰
+www.bybit.com|Тинькофф|https://www.tinkoff.ru|💰
+bitget.com|Тинькофф|https://www.tinkoff.ru|💰
+mexc.com|Тинькофф|https://www.tinkoff.ru|💰
+www.mexc.com|Тинькофф|https://www.tinkoff.ru|💰
+okx.com|Тинькофф|https://www.tinkoff.ru|💰
+www.okx.com|Тинькофф|https://www.tinkoff.ru|💰
+bitmex.com|Тинькофф|https://www.tinkoff.ru|💰
+bybit.com|Тинькофф|https://www.tinkoff.ru|💰
+deribit.com|Тинькофф|https://www.tinkoff.ru|💰
+ftx.com|Тинькофф|https://www.tinkoff.ru|💰
+celsius.network|Тинькофф|https://www.tinkoff.ru|💰
+voyager.digital|Тинькофф|https://www.tinkoff.ru|💰
+blockfi.com|Тинькофф|https://www.tinkoff.ru|💰
+nexo.io|Тинькофф|https://www.tinkoff.ru|💰
+etherscan.io|Тинькофф|https://www.tinkoff.ru|💰
+www.etherscan.io|Тинькофф|https://www.tinkoff.ru|💰
+blockchain.com|Тинькофф|https://www.tinkoff.ru|💰
+www.blockchain.com|Тинькофф|https://www.tinkoff.ru|💰
+blockchair.com|Тинькофф|https://www.tinkoff.ru|💰
+bitinfocharts.com|Тинькофф|https://www.tinkoff.ru|💰
+coingecko.com|Тинькофф|https://www.tinkoff.ru|💰
+www.coingecko.com|Тинькофф|https://www.tinkoff.ru|💰
+coinmarketcap.com|Тинькофф|https://www.tinkoff.ru|💰
+www.coinmarketcap.com|Тинькофф|https://www.tinkoff.ru|💰
+messari.io|Тинькофф|https://www.tinkoff.ru|💰
+defillama.com|Тинькофф|https://www.tinkoff.ru|💰
+uniswap.org|Тинькофф|https://www.tinkoff.ru|💰
+www.uniswap.org|Тинькофф|https://www.tinkoff.ru|💰
+pancakeswap.finance|Тинькофф|https://www.tinkoff.ru|💰
+sushi.com|Тинькофф|https://www.tinkoff.ru|💰
+opensea.io|Тинькофф|https://www.tinkoff.ru|💰
+www.opensea.io|Тинькофф|https://www.tinkoff.ru|💰
+rarible.com|Тинькофф|https://www.tinkoff.ru|💰
+foundation.app|Тинькофф|https://www.tinkoff.ru|💰
+superrare.com|Тинькофф|https://www.tinkoff.ru|💰
+zora.co|Тинькофф|https://www.tinkoff.ru|💰
+knownorigin.io|Тинькофф|https://www.tinkoff.ru|💰
+async.art|Тинькофф|https://www.tinkoff.ru|💰
+sandbox.game|Тинькофф|https://www.tinkoff.ru|💰
+www.sandbox.game|Тинькофф|https://www.tinkoff.ru|💰
+decentraland.org|Тинькофф|https://www.tinkoff.ru|💰
+www.decentraland.org|Тинькофф|https://www.tinkoff.ru|💰
+axie infinity.com|Тинькофф|https://www.tinkoff.ru|💰
+stepn.com|Тинькофф|https://www.tinkoff.ru|💰
+www.stepn.com|Тинькофф|https://www.tinkoff.ru|💰
+gala.com|Тинькофф|https://www.tinkoff.ru|💰
+illuvium.io|Тинькофф|https://www.tinkoff.ru|💰
+staratlas.com|Тинькофф|https://www.tinkoff.ru|💰
+splinterlands.com|Тинькофф|https://www.tinkoff.ru|💰
+alienworlds.io|Тинькофф|https://www.tinkoff.ru|💰
+thetanarena.com|Тинькофф|https://www.tinkoff.ru|💰
+mykey.net|Тинькофф|https://www.tinkoff.ru|💰
+wombat.app|Тинькофф|https://www.tinkoff.ru|💰
+binance.org|Тинькофф|https://www.tinkoff.ru|💰
+scan.near.org|Тинькофф|https://www.tinkoff.ru|💰
+solscan.io|Тинькофф|https://www.tinkoff.ru|💰
+solana.fm|Тинькофф|https://www.tinkoff.ru|💰
+birdeye.so|Тинькофф|https://www.tinkoff.ru|💰
+dexscreener.com|Тинькофф|https://www.tinkoff.ru|💰
+poocoin.app|Тинькофф|https://www.tinkoff.ru|💰
+dextools.io|Тинькофф|https://www.tinkoff.ru|💰
+bscscan.com|Тинькофф|https://www.tinkoff.ru|💰
+polygonscan.com|Тинькофф|https://www.tinkoff.ru|💰
+arbiscan.io|Тинькофф|https://www.tinkoff.ru|💰
+optimistic.etherscan.io|Тинькофф|https://www.tinkoff.ru|💰
+ftmscan.com|Тинькофф|https://www.tinkoff.ru|💰
+snowtrace.io|Тинькофф|https://www.tinkoff.ru|💰
+cronoscan.com|Тинькофф|https://www.tinkoff.ru|💰
+moonscan.io|Тинькофф|https://www.tinkoff.ru|💰
+celoscan.io|Тинькофф|https://www.tinkoff.ru|💰
+aurorascan.dev|Тинькофф|https://www.tinkoff.ru|💰
+explorer.near.org|Тинькофф|https://www.tinkoff.ru|💰
+suiscan.xyz|Тинькофф|https://www.tinkoff.ru|💰
+explorer.aptoslabs.com|Тинькофф|https://www.tinkoff.ru|💰
+suiexplorer.com|Тинькофф|https://www.tinkoff.ru|💰
+flowscan.org|Тинькофф|https://www.tinkoff.ru|💰
+blockscout.com|Тинькофф|https://www.tinkoff.ru|💰
+tomoscan.io|Тинькофф|https://www.tinkoff.ru|💰
+cronoscan.com|Тинькофф|https://www.tinkoff.ru|💰
+hashscan.io|Тинькофф|https://www.tinkoff.ru|💰
+explorer.kava.io|Тинькофф|https://www.tinkoff.ru|💰
+scan.credefi.io|Тинькофф|https://www.tinkoff.ru|💰
+scan.acala.network|Тинькофф|https://www.tinkoff.ru|💰
+polkadot.js.org|Тинькофф|https://www.tinkoff.ru|💰
+subscan.io|Тинькофф|https://www.tinkoff.ru|💰
+kusama.subscan.io|Тинькофф|https://www.tinkoff.ru|💰
+stateofthedapps.com|Тинькофф|https://www.tinkoff.ru|💰
+dappradar.com|Тинькофф|https://www.tinkoff.ru|💰
+dapp.com|Тинькофф|https://www.tinkoff.ru|💰
+dappradar.com|Тинькофф|https://www.tinkoff.ru|💰
+tokenterminal.com|Тинькофф|https://www.tinkoff.ru|💰
+nansen.ai|Тинькофф|https://www.tinkoff.ru|💰
+glassnode.com|Тинькофф|https://www.tinkoff.ru|💰
+www.glassnode.com|Тинькофф|https://www.tinkoff.ru|💰
+intotheblock.com|Тинькофф|https://www.tinkoff.ru|💰
+santiment.net|Тинькофф|https://www.tinkoff.ru|💰
+cryptorank.io|Тинькофф|https://www.tinkoff.ru|💰
+tokenunlocks.app|Тинькофф|https://www.tinkoff.ru|💰
+cryptoslam.io|Тинькофф|https://www.tinkoff.ru|💰
+nftgo.io|Тинькофф|https://www.tinkoff.ru|💰
+nftcalendar.io|Тинькофф|https://www.tinkoff.ru|💰
+galxe.com|Тинькофф|https://www.tinkoff.ru|💰
+quest3.xyz|Тинькофф|https://www.tinkoff.ru|💰
+layer3.xyz|Тинькофф|https://www.tinkoff.ru|💰
+earn.hopprotocol.com|Тинькофф|https://www.tinkoff.ru|💰
+bungee.exchange|Тинькофф|https://www.tinkoff.ru|💰
+app.rhino.fi|Тинькофф|https://www.tinkoff.ru|💰
+bridge.aurora.dev|Тинькофф|https://www.tinkoff.ru|💰
+across.to|Тинькофф|https://www.tinkoff.ru|💰
+synapseprotocol.com|Тинькофф|https://www.tinkoff.ru|💰
+hop.exchange|Тインькофф|https://www.tinkoff.ru|💰
+connext.network|Тинькофф|https://www.tinkoff.ru|💰
+multichain.org|Тинькофф|https://www.tinkoff.ru|💰
+stargate.finance|Тинькофф|https://www.tinkoff.ru|💰
+lifi.xyz|Тинькофф|https://www.tinkoff.ru|💰
+socketsupply.co|Тинькофф|https://www.tinkoff.ru|💰
+
+# ==============================
+# СТРИМИНГОВЫЕ СЕРВИСЫ
+# ==============================
+netflix.com|Кинопоиск|https://www.kinopoisk.ru|📺
+www.netflix.com|Кинопоиск|https://www.kinopoisk.ru|📺
+hulu.com|Кинопоиск|https://www.kinopoisk.ru|📺
+www.hulu.com|Кинопоиск|https://www.kinopoиск.ru|📺
+disneyplus.com|Кинопоиск|https://www.kinopoisk.ru|📺
+www.disneyplus.com|Кинопоиск|https://www.kinopoиск.ru|📺
+hbomax.com|Кинопоиск|https://www.kinopoиск.ru|📺
+www.hbomax.com|Кинопоиск|https://www.kinopoиск.ru|📺
+max.com|Кинопоиск|https://www.kinopoиск.ru|📺
+www.max.com|Кинопоиск|https://www.kinopoиск.ru|📺
+paramountplus.com|Кинопоиск|https://www.kinopoиск.ru|📺
+www.paramountplus.com|Кинопоиск|https://www.kinopoиск.ru|📺
+peacocktv.com|Кинопоиск|https://www.kinopoиск.ru|📺
+www.peacocktv.com|Кинопоиск|https://www.kinopoиск.ru|📺
+appletv.com|Кинопоиск|https://www.kinopoиск.ru|📺
+tv.apple.com|Кинопоиск|https://www.kinopoиск.ru|📺
+primevideo.com|Кинопоиск|https://www.kinopoisk.ru|📺
+www.primevideo.com|Кинопоиск|https://www.kinopoisk.ru|📺
+crunchyroll.com|Okko|https://okko.tv|📺
+www.crunchyroll.com|Okko|https://okko.tv|📺
+funimation.com|Okko|https://okko.tv|📺
+www.funimation.com|Okko|https://okko.tv|📺
+vudu.com|Кинопоиск|https://www.kinopoisk.ru|📺
+mubi.com|Кинопоиск|https://www.kinopoisk.ru|📺
+www.mubi.com|Кинопоиск|https://www.kinopoisk.ru|📺
+shudder.com|Кинопоиск|https://www.kinopoиск.ru|📺
+stan.com.au|Кинопоиск|https://www.kinopoisk.ru|📺
+crave.ca|Кинопоиск|https://www.kinopoisk.ru|📺
+iplayer.bbc.co.uk|Кинопоиск|https://www.kinopoisk.ru|📺
+iview.abc.net.au|Кинопоиск|https://www.kinopoisk.ru|📺
+rtve.es/play|Кинопоиск|https://www.kinopoisk.ru|📺
+ardmediathek.de|Кинопоиск|https://www.kinopoisk.ru|📺
+zdf.de|Кинопоиск|https://www.kinopoisk.ru|📺
+mediathekviewweb.de|Кинопоиск|https://www.kinopoisk.ru|📺
+all4.com|Кинопоиск|https://www.kinopoisk.ru|📺
+my5.tv|Кинопоиск|https://www.kinopoisk.ru|📺
+nowtv.it|Кинопоиск|https://www.kinopoisk.ru|📺
+viaplay.com|Кинопоиск|https://www.kinopoisk.ru|📺
+www.viaplay.com|Кинопоиск|https://www.kinopoisk.ru|📺
+viaplay.se|Кинопоиск|https://www.kinopoisk.ru|📺
+blockbuster.dk|Кинопоиск|https://www.kinopoisk.ru|📺
+viaplay.no|Кинопоиск|https://www.kinopoisk.ru|📺
+tv2.dk|Кинопоиск|https://www.kinopoisk.ru|📺
+rakuten.tv|Кинопоиск|https://www.kinopoisk.ru|📺
+www.rakuten.tv|Кинопоиск|https://www.kinopoisk.ru|📺
+plex.tv|Кинопоиск|https://www.kinopoisk.ru|📺
+www.plex.tv|Кинопоиск|https://www.kinopoisk.ru|📺
+emby.media|Кинопоиск|https://www.kinopoisk.ru|📺
+jellyfin.org|Кинопоиск|https://www.kinopoisk.ru|📺
+kodi.tv|Кинопоиск|https://www.kinopoisk.ru|📺
+popcorntime.app|Кинопоиск|https://www.kinopoisk.ru|📺
+
+# ==============================
+# ОБЪЯВЛЕНИЯ И МАРКЕТИНГ
+# ==============================
+ads.google.com|Яндекс.Директ|https://direct.yandex.ru|📢
+ads.facebook.com|VK Реклама|https://ads.vk.com|📢
+business.facebook.com|VK Реклама|https://ads.vk.com|📢
+adsmanager.facebook.com|VK Реклама|https://ads.vk.com|📢
+ads.twitter.com|VK Реклама|https://ads.vk.com|📢
+ads.linkedin.com|VK Реклама|https://ads.vk.com|📢
+ads.microsoft.com|Яндекс.Директ|https://direct.yandex.ru|📢
+ads.tiktok.com|VK Реклама|https://ads.vk.com|📢
+ads.snapchat.com|VK Реклама|https://ads.vk.com|📢
+ads.pinterest.com|VK Реклама|https://ads.vk.com|📢
+ads.reddit.com|VK Реклама|https://ads.vk.com|📢
+taboola.com|VK Реклама|https://ads.vk.com|📢
+outbrain.com|VK Реклама|https://ads.vk.com|📢
+mgid.com|VK Реклама|https://ads.vk.com|📢
+revcontent.com|VK Реклама|https://ads.vk.com|📢
+adroll.com|VK Реклама|https://ads.vk.com|📢
+criteo.com|VK Реклама|https://ads.vk.com|📢
+www.criteo.com|VK Реклама|https://ads.vk.com|📢
+doubleclick.net|VK Реклама|https://ads.vk.com|📢
+googleadservices.com|VK Реклама|https://ads.vk.com|📢
+googlesyndication.com|VK Реклама|https://ads.vk.com|📢
+google-analytics.com|Яндекс.Метрика|https://metrika.yandex.ru|📊
+analytics.google.com|Яндекс.Метрика|https://metrika.yandex.ru|📊
+googletagmanager.com|Яндекс.Метрика|https://metrika.yandex.ru|📊
+hotjar.com|VK Метрика|https://vk.com|📊
+mixpanel.com|VK Метрика|https://vk.com|📊
+segment.com|VK Метрика|https://vk.com|📊
+amplitude.com|VK Метрика|https://vk.com|📊
+heap.io|VK Метрика|https://vk.com|📊
+mixpanel.com|VK Метрика|https://vk.com|📊
+optimizely.com|VK Метрика|https://vk.com|📊
+vwo.com|VK Метрика|https://vk.com|📊
+abtasty.com|VK Метрика|https://vk.com|📊
+kameleoon.com|VK Метрика|https://vk.com|📊
+dynamic-yield.com|VK Метрика|https://vk.com|📊
+monetate.com|VK Метрика|https://vk.com|📊
+emarsys.com|VK Метрика|https://vk.com|📊
+braze.com|VK Метрика|https://vk.com|📊
+customer.io|VK Метрика|https://vk.com|📊
+intercom.com|VK Метрика|https://vk.com|📊
+drift.com|VK Метрика|https://vk.com|📊
+zendesk.com|VK Метрика|https://vk.com|📊
+freshdesk.com|VK Метрика|https://vk.com|📊
+helpscout.com|VK Метрика|https://vk.com|📊
+hubspot.com|VK Метрика|https://vk.com|📊
+www.hubspot.com|VK Метрика|https://vk.com|📊
+marketo.com|VK Метрика|https://vk.com|📊
+pardot.com|VK Метрика|https://vk.com|📊
+mailchimp.com|Сервис рассылок|https://www.unisender.com|📧
+www.mailchimp.com|Сервис рассылок|https://www.unisender.com|📧
+sendgrid.com|Сервис рассылок|https://www.unisender.com|📧
+activecampaign.com|Сервис рассылок|https://www.unisender.com|📧
+convertkit.com|Сервис рассылок|https://www.unisender.com|📧
+drip.com|Сервис рассылок|https://www.unisender.com|📧
+getresponse.com|Сервис рассылок|https://www.unisender.com|📧
+www.getresponse.com|Сервис рассылок|https://www.unisender.com|📧
+aweber.com|Сервис рассылок|https://www.unisender.com|📧
+benchmarkemail.com|Сервис рассылок|https://www.unisender.com|📧
+campaignmonitor.com|Сервис рассылок|https://www.unisender.com|📧
+constantcontact.com|Сервис рассылок|https://www.unisender.com|📧
+sender.net|Сервис рассылок|https://www.unisender.com|📧
+mailerlite.com|Сервис рассылок|https://www.unisender.com|📧
+moosend.com|Сервис рассылок|https://www.unisender.com|📧
+
+# ==============================
+# ПРОГНОЗЫ ПОГОДЫ
+# ==============================
+weather.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+www.weather.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+accuweather.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+www.accuweather.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+weather.gov|Яндекс Погода|https://yandex.ru/pogoda|🌤
+wunderground.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+darksky.net|Яндекс Погода|https://yandex.ru/pogoda|🌤
+weather地下|Яндекс Погода|https://yandex.ru/pogoda|🌤
+windy.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+www.windy.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+earth.nullschool.net|Яндекс Погода|https://yandex.ru/pogoda|🌤
+rainviewer.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+ventusky.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+www.ventusky.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+meteoblue.com|Яндекс Погода|https://yandex.ru/pogoda|🌤
+yr.no|Яндекс Погода|https://yandex.ru/pogoda|🌤
+www.yr.no|Яндекс Погода|https://yandex.ru/pogoda|🌤
+fmi.fi|Яндекс Погода|https://yandex.ru/pogoda|🌤
+dwd.de|Яндекс Погода|https://yandex.ru/pogoda|🌤
+metoffice.gov.uk|Яндекс Погода|https://yandex.ru/pogoda|🌤
+bom.gov.au|Яндекс Погода|https://yandex.ru/pogoda|🌤
+weather.gc.ca|Яндекс Погода|https://yandex.ru/pogoda|🌤
+
+# ==============================
+# КАРТЫ И НАВИГАЦИЯ
+# ==============================
+maps.google.com|Яндекс Карты|https://yandex.ru/maps|🗺
+www.google.com/maps|Яндекс Карты|https://yandex.ru/maps|🗺
+earth.google.com|Яндекс Карты|https://yandex.ru/maps|🗺
+maps.apple.com|Яндекс Карты|https://yandex.ru/maps|🗺
+waze.com|Яндекс Навигатор|https://yandex.ru/maps|🚗
+www.waze.com|Яндекс Навигатор|https://yandex.ru/maps|🚗
+mapbox.com|Яндекс Карты|https://yandex.ru/maps|🗺
+www.mapbox.com|Яндекс Карты|https://yandex.ru/maps|🗺
+openstreetmap.org|Яндекс Карты|https://yandex.ru/maps|🗺
+www.openstreetmap.org|Яндекс Карты|https://yandex.ru/maps|🗺
+mapillary.com|Яндекс Карты|https://yandex.ru/maps|🗺
+www.mapillary.com|Яндекс Карты|https://yandex.ru/maps|🗺
+strava.com|Яндекс Карты|https://yandex.ru/maps|🗺
+www.strava.com|Яндекс Карты|https://yandex.ru/maps|🗺
+komoot.com|Яндекс Карты|https://yandex.ru/maps|🗺
+alltrails.com|Яндекс Карты|https://yandex.ru/maps|🗺
+wikiloc.com|Яндекс Карты|https://yandex.ru/maps|🗺
+wikimapia.org|Яндекс Карты|https://yandex.ru/maps|🗺
+geocaching.com|Яндекс Карты|https://yandex.ru/maps|🗺
+geoguessr.com|Яндекс Карты|https://yandex.ru/maps|🗺
+www.geoguessr.com|Яндекс Карты|https://yandex.ru/maps|🗺
+traveloka.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+booking.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+www.booking.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+airbnb.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+www.airbnb.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+expedia.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+www.expedia.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+tripadvisor.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+www.tripadvisor.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+kayak.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+skyscanner.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+www.skyscanner.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+momondo.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+kiwi.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+www.kiwi.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+google.com/travel|Яндекс Путешествия|https://travel.yandex.ru|✈️
+trip.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+agoda.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+hotels.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+www.hotels.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+hostelworld.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+rome2rio.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+rome2rio.com|Яндекс Путешествия|https://travel.yandex.ru|✈️
+
+# ==============================
+# РАБОТА И КАРЬЕРА
+# ==============================
+linkedin.com|HH.ru|https://hh.ru|💼
+www.linkedin.com|HH.ru|https://hh.ru|💼
+indeed.com|HH.ru|https://hh.ru|💼
+www.indeed.com|HH.ru|https://hh.ru|💼
+glassdoor.com|HH.ru|https://hh.ru|💼
+www.glassdoor.com|HH.ru|https://hh.ru|💼
+monster.com|HH.ru|https://hh.ru|💼
+www.monster.com|HH.ru|https://hh.ru|💼
+ziprecruiter.com|HH.ru|https://hh.ru|💼
+www.ziprecruiter.com|HH.ru|https://hh.ru|💼
+careerbuilder.com|HH.ru|https://hh.ru|💼
+www.careerbuilder.com|HH.ru|https://hh.ru|💼
+simplyhired.com|HH.ru|https://hh.ru|💼
+www.simplyhired.com|HH.ru|https://hh.ru|💼
+dice.com|HH.ru|https://hh.ru|💼
+www.dice.com|HH.ru|https://hh.ru|💼
+stackoverflow.com/jobs|HH.ru|https://hh.ru|💼
+remoteok.com|HH.ru|https://hh.ru|💼
+weworkremotely.com|HH.ru|https://hh.ru|💼
+flexjobs.com|HH.ru|https://hh.ru|💼
+upwork.com|Хабр Фриланс|https://freelance.habr.com|💼
+www.upwork.com|Хабр Фриланс|https://freelance.habr.com|💼
+freelancer.com|Хабр Фриланс|https://freelance.habr.com|💼
+www.freelancer.com|Хабр Фриланс|https://freelance.habr.com|💼
+fiverr.com|Хабр Фриланс|https://freelance.habr.com|💼
+www.fiverr.com|Хабр Фриланс|https://freelance.habr.com|💼
+toptal.com|Хабр Фриланс|https://freelance.habr.com|💼
+www.toptal.com|Хабр Фриланс|https://freelance.habr.com|💼
+99designs.com|Хабр Фриланс|https://freelance.habr.com|💼
+envato.com|Хабр Фриланс|https://freelance.habr.com|💼
+www.envato.com|Хабр Фриланс|https://freelance.habr.com|💼
+themeforest.net|Хабр Фриланс|https://freelance.habr.com|💼
+codecanyon.net|Хабр Фриланс|https://freelance.habr.com|💼
+graphicriver.net|Хабр Фриланс|https://freelance.habr.com|💼
+audiojungle.net|Хабр Фриланс|https://freelance.habr.com|💼
+videohive.net|Хабр Фриланс|https://freelance.habr.com|💼
+photodune.net|Хабр Фриланс|https://freelance.habr.com|💼
+3docean.net|Хабр Фриланс|https://freelance.habr.com|💼
+codecanyon.net|Хабр Фриланс|https://freelance.habr.com|💼
+elementor.com|Хабр Фриланс|https://freelance.habr.com|💼
+www.elementor.com|Хабр Фриланс|https://freelance.habr.com|💼
+wix.com|Тilda|https://tilda.cc|🎨
+www.wix.com|Тilda|https://tilda.cc|🎨
+squarespace.com|Тilda|https://tilda.cc|🎨
+www.squarespace.com|Тilda|https://tilda.cc|🎨
+weebly.com|Тilda|https://tilda.cc|🎨
+www.weebly.com|Тilda|https://tilda.cc|🎨
+godaddy.com|REG.RU|https://www.reg.ru|🌐
+www.godaddy.com|REG.RU|https://www.reg.ru|🌐
+namecheap.com|REG.RU|https://www.reg.ru|🌐
+www.namecheap.com|REG.RU|https://www.reg.ru|🌐
+hover.com|REG.RU|https://www.reg.ru|🌐
+dyn.com|REG.RU|https://www.reg.ru|🌐
+cloudflare.com|REG.RU|https://www.reg.ru|🌐
+www.cloudflare.com|REG.RU|https://www.reg.ru|🌐
+fastly.com|REG.RU|https://www.reg.ru|🌐
+akamai.com|REG.RU|https://www.reg.ru|🌐
+www.akamai.com|REG.RU|https://www.reg.ru|🌐
+incapsula.com|REG.RU|https://www.reg.ru|🌐
+sucuri.net|REG.RU|https://www.reg.ru|🌐
+sectigo.com|REG.RU|https://www.reg.ru|🌐
+letsencrypt.org|REG.RU|https://www.reg.ru|🌐
+digicert.com|REG.RU|https://www.reg.ru|🌐
+globalsign.com|REG.RU|https://www.reg.ru|🌐
+thawte.com|REG.RU|https://www.reg.ru|🌐
+verisign.com|REG.RU|https://www.reg.ru|🌐
+comodoca.com|REG.RU|https://www.reg.ru|🌐
+
+# ==============================
+# СТРИМЫНГ МУЗЫКИ/ВИДЕО
+# ==============================
+twitch.tv|VK Play Live|https://live.vkplay.ru|🎮
+www.twitch.tv|VK Play Live|https://live.vkplay.ru|🎮
+kick.com|VK Play Live|https://live.vkplay.ru|🎮
+www.kick.com|VK Play Live|https://live.vkplay.ru|🎮
+trovo.live|VK Play Live|https://live.vkplay.ru|🎮
+afreecatv.com|VK Play Live|https://live.vkplay.ru|🎮
+www.afreecatv.com|VK Play Live|https://live.vkplay.ru|🎮
+bilibili.com/live|VK Play Live|https://live.vkplay.ru|🎮
+mixer.com|VK Play Live|https://live.vkplay.ru|🎮
+smashcast.tv|VK Play Live|https://live.vkplay.ru|🎮
+www.smashcast.tv|VK Play Live|https://live.vkplay.ru|🎮
+dlive.tv|VK Play Live|https://live.vkplay.ru|🎮
+www.dlive.tv|VK Play Live|https://live.vkplay.ru|🎮
+nimo.tv|VK Play Live|https://live.vkplay.ru|🎮
+www.nimo.tv|VK Play Live|https://live.vkplay.ru|🎮
+live.me|VK Play Live|https://live.vkplay.ru|🎮
+www.live.me|VK Play Live|https://live.vkplay.ru|🎮
+younow.com|VK Play Live|https://live.vkplay.ru|🎮
+www.younow.com|VK Play Live|https://live.vkplay.ru|🎮
+bigo.tv|VK Play Live|https://live.vkplay.ru|🎮
+www.bigo.tv|VK Play Live|https://live.vkplay.ru|🎮
+chzzk.naver.com|VK Play Live|https://live.vkplay.ru|🎮
+sooplive.co.kr|VK Play Live|https://live.vkplay.ru|🎮
+
+# ==============================
+# СТРИМИНГ МУЗЫКИ
+# ==============================
+spotify.com|VK Музыка|https://vk.com/audio|🎵
+open.spotify.com|VK Музыка|https://vk.com/audio|🎵
+soundcloud.com|VK Музыка|https://vk.com/audio|🎵
+www.soundcloud.com|VK Музыка|https://vk.com/audio|🎵
+music.apple.com|VK Музыка|https://vk.com/audio|🎵
+deezer.com|VK Музыка|https://vk.com/audio|🎵
+tidal.com|VK Музыка|https://vk.com/audio|🎵
+pandora.com|VK Музыка|https://vk.com/audio|🎵
+iheart.com|VK Музыка|https://vk.com/audio|🎵
+last.fm|VK Музыка|https://vk.com/audio|🎵
+genius.com|VK Музыка|https://vk.com/audio|🎵
+bandcamp.com|VK Музыка|https://vk.com/audio|🎵
+audiomack.com|VK Музыка|https://vk.com/audio|🎵
+napster.com|VK Музыка|https://vk.com/audio|🎵
+qobuz.com|VK Музыка|https://vk.com/audio|🎵
+tunecore.com|VK Музыка|https://vk.com/audio|🎵
+distrokid.com|VK Музыка|https://vk.com/audio|🎵
+landr.com|VK Музыка|https://vk.com/audio|🎵
+bandlab.com|VK Музыка|https://vk.com/audio|🎵
+splice.com|VK Музыка|https://vk.com/audio|🎵
+ableton.com|VK Музыка|https://vk.com/audio|🎵
+image-line.com|VK Музыка|https://vk.com/audio|🎵
+native-instruments.com|VK Музыка|https://vk.com/audio|🎵
+pluginboutique.com|VK Музыка|https://vk.com/audio|🎵
+reverb.com|VK Музыка|https://vk.com/audio|🎵
+www.reverb.com|VK Музыка|https://vk.com/audio|🎵
+sweetwater.com|VK Музыка|https://vk.com/audio|🎵
+www.sweetwater.com|VK Музыка|https://vk.com/audio|🎵
+guitarcenter.com|VK Музыка|https://vk.com/audio|🎵
+www.guitarcenter.com|VK Музыка|https://vk.com/audio|🎵
+bhphotovideo.com|VK Музыка|https://vk.com/audio|🎵
+www.bhphotovideo.com|VK Музыка|https://vk.com/audio|🎵
+adorama.com|VK Музыка|https://vk.com/audio|🎵
+www.adorama.com|VK Музыка|https://vk.com/audio|🎵
+thomann.de|VK Музыка|https://vk.com/audio|🎵
+www.thomann.de|VK Музыка|https://vk.com/audio|🎵
+andertons.co.uk|VK Музыка|https://vk.com/audio|🎵
+www.andertons.co.uk|VK Музыка|https://vk.com/audio|🎵
+long-mcquade.com|VK Музыка|https://vk.com/audio|🎵
+www.long-mcquade.com|VK Музыка|https://vk.com/audio|🎵
+swmusic.com|VK Музыка|https://vk.com/audio|🎵
+www.swmusic.com|VK Музыка|https://vk.com/audio|🎵
+jacksongs.com|VK Музыка|https://vk.com/audio|🎵
+www.jacksongs.com|VK Музыка|https://vk.com/audio|🎵
+moogmusic.com|VK Музыка|https://vk.com/audio|🎵
+www.moogmusic.com|VK Музыка|https://vk.com/audio|🎵
+roli.com|VK Музыка|https://vk.com/audio|🎵
+www.roli.com|VK Музыка|https://vk.com/audio|🎵
+novationmusic.com|VK Музыка|https://vk.com/audio|🎵
+www.novationmusic.com|VK Музыка|https://vk.com/audio|🎵
+arturia.com|VK Музыка|https://vk.com/audio|🎵
+www.arturia.com|VK Музыка|https://vk.com/audio|🎵
+korg.com|VK Музыка|https://vk.com/audio|🎵
+www.korg.com|VK Музыка|https://vk.com/audio|🎵
+roland.com|VK Музыка|https://vk.com/audio|🎵
+www.roland.com|VK Музыка|https://vk.com/audio|🎵
+yamaha.com|VK Музыка|https://vk.com/audio|🎵
+www.yamaha.com|VK Музыка|https://vk.com/audio|🎵
+casio.com|VK Музыка|https://vk.com/audio|🎵
+www.casio.com|VK Музыка|https://vk.com/audio|🎵
+fender.com|VK Музыка|https://vk.com/audio|🎵
+www.fender.com|VK Музыка|https://vk.com/audio|🎵
+gibson.com|VK Музыка|https://vk.com/audio|🎵
+www.gibson.com|VK Музыка|https://vk.com/audio|🎵
+prs guitars.com|VK Музыка|https://vk.com/audio|🎵
+ibanez.com|VK Музыка|https://vk.com/audio|🎵
+www.ibanez.com|VK Музыка|https://vk.com/audio|🎵
+esp guitars.com|VK Музыка|https://vk.com/audio|🎵
+rickenbacker.com|VK Музыка|https://vk.com/audio|🎵
+www.rickenbacker.com|VK Музыка|https://vk.com/audio|🎵
+ampeg.com|VK Музыка|https://vk.com/audio|🎵
+www.ampeg.com|VK Музыка|https://vk.com/audio|🎵
+marshall.com|VK Музыка|https://vk.com/audio|🎵
+www.marshall.com|VK Музыка|https://vk.com/audio|🎵
+boss.info|VK Музыка|https://vk.com/audio|🎵
+www.boss.info|VK Музыка|https://vk.com/audio|🎵
+line6.com|VK Музыка|https://vk.com/audio|🎵
+www.line6.com|VK Музыка|https://vk.com/audio|🎵
+eventide.com|VK Музыка|https://vk.com/audio|🎵
+www.eventide.com|VK Музыка|https://vk.com/audio|🎵
+tc-electronic.com|VK Музыка|https://vk.com/audio|🎵
+www.tc-electronic.com|VK Музыка|https://vk.com/audio|🎵
+strymon.net|VK Музыка|https://vk.com/audio|🎵
+www.strymon.net|VK Музыка|https://vk.com/audio|🎵
+fulltone.com|VK Музыка|https://vk.com/audio|🎵
+www.fulltone.com|VK Музыка|https://vk.com/audio|🎵
+mxr pedals.com|VK Музыка|https://vk.com/audio|🎵
+www.jimdunlop.com|VK Музыка|https://vk.com/audio|🎵
+electro-harmonix.com|VK Музыка|https://vk.com/audio|🎵
+www.electro-harmonix.com|VK Музыка|https://vk.com/audio|🎵
+walrus audio.com|VK Музыка|https://vk.com/audio|🎵
+www.walrusaudio.com|VK Музыка|https://vk.com/audio|🎵
+jhs pedals.com|VK Музыка|https://vk.com/audio|🎵
+www.jhspedals.com|VK Музыка|https://vk.com/audio|🎵
+keeley electronics.com|VK Музыка|https://vk.com/audio|🎵
+www.keeleyelectronics.com|VK Музыка|https://vk.com/audio|🎵
+earthquaker devices.com|VK Музыка|https://vk.com/audio|🎵
+www.earthquakerdevices.com|VK Музыка|https://vk.com/audio|🎵
+chase bliss audio.com|VK Музыка|https://vk.com/audio|🎵
+www.chaseblissaudio.com|VK Музыка|https://vk.com/audio|🎵
+meris pedals.com|VK Музыка|https://vk.com/audio|🎵
+www.meris.us|VK Музыка|https://vk.com/audio|🎵
+old blood noise endeavors.com|VK Музыка|https://vk.com/audio|🎵
+www.oldbloodnoise.com|VK Музыка|https://vk.com/audio|🎵
+source audio.com|VK Музыка|https://vk.com/audio|🎵
+www.sourceaudio.net|VK Музыка|https://vk.com/audio|🎵
+hotone pedals.com|VK Музыка|https://vk.com/audio|🎵
+www.hotoneaudio.com|VK Музыка|https://vk.com/audio|🎵
+zoom.co.jp|VK Музыка|https://vk.com/audio|🎵
+www.zoom.co.jp|VK Музыка|https://vk.com/audio|🎵
+dunlop.com|VK Музыка|https://vk.com/audio|🎵
+www.dunlop.com|VK Музыка|https://vk.com/audio|🎵
+ernie ball.com|VK Музыка|https://vk.com/audio|🎵
+www.ernieball.com|VK Музыка|https://vk.com/audio|🎵
+daddario.com|VK Музыка|https://vk.com/audio|🎵
+www.daddario.com|VK Музыка|https://vk.com/audio|🎵
+gallistrings.com|VK Музыка|https://vk.com/audio|🎵
+www.gallistrings.com|VK Музыка|https://vk.com/audio|🎵
+rotosound.com|VK Музыка|https://vk.com/audio|🎵
+www.rotosound.com|VK Музыка|https://vk.com/audio|🎵
+dr strings.com|VK Музыка|https://vk.com/audio|🎵
+www.drstrings.com|VK Музыка|https://vk.com/audio|🎵
+thomastik-infeld.com|VK Музыка|https://vk.com/audio|🎵
+www.thomastik-infeld.com|VK Музыка|https://vk.com/audio|🎵
+la bella strings.com|VK Музыка|https://vk.com/audio|🎵
+www.labella.com|VK Музыка|https://vk.com/audio|🎵
+augustine strings.com|VK Музыка|https://vk.com/audio|🎵
+www.augustinestrings.com|VK Музыка|https://vk.com/audio|🎵
+d'addario.com|VK Музыка|https://vk.com/audio|🎵
+www.daddario.com|VK Музыка|https://vk.com/audio|🎵
+ernieball.com|VK Музыка|https://vk.com/audio|🎵
+www.ernieball.com|VK Музыка|https://vk.com/audio|🎵
+fender.com|VK Музыка|https://vk.com/audio|🎵
+www.fender.com|VK Музыка|https://vk.com/audio|🎵
+gibson.com|VK Музыка|https://vk.com/audio|🎵
+www.gibson.com|VK Музыка|https://vk.com/audio|🎵
+prs guitars.com|VK Музыка|https://vk.com/audio|🎵
+ibanez.com|VK Музыка|https://vk.com/audio|🎵
+www.ibanez.com|VK Музыка|https://vk.com/audio|🎵
+esp guitars.com|VK Музыка|https://vk.com/audio|🎵
+rickenbacker.com|VK Музыка|https://vk.com/audio|🎵
+www.rickenbacker.com|VK Музыка|https://vk.com/audio|🎵
+ampeg.com|VK Музыка|https://vk.com/audio|🎵
+www.ampeg.com|VK Музыка|https://vk.com/audio|🎵
+marshall.com|VK Музыка|https://vk.com/audio|🎵
+www.marshall.com|VK Музыка|https://vk.com/audio|🎵
+boss.info|VK Музыка|https://vk.com/audio|🎵
+www.boss.info|VK Музыка|https://vk.com/audio|🎵
+line6.com|VK Музыка|https://vk.com/audio|🎵
+www.line6.com|VK Музыка|https://vk.com/audio|🎵
+eventide.com|VK Музыка|https://vk.com/audio|🎵
+www.eventide.com|VK Музыка|https://vk.com/audio|🎵
+tc-electronic.com|VK Музыка|https://vk.com/audio|🎵
+www.tc-electronic.com|VK Музыка|https://vk.com/audio|🎵

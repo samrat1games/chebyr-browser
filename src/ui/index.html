@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Чебур-Браузер</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- Тулбар -->
+  <header id="toolbar">
+    <div class="toolbar-left">
+      <button id="btn-back" class="nav-btn" title="Назад (Alt+←)">◀</button>
+      <button id="btn-forward" class="nav-btn" title="Вперёд (Alt+→)">▶</button>
+      <button id="btn-reload" class="nav-btn" title="Обновить (F5)">↻</button>
+      <button id="btn-home" class="nav-btn" title="Главная">⌂</button>
+    </div>
+    <div class="toolbar-center">
+      <div id="url-bar">
+        <span id="url-security">🔒</span>
+        <input type="text" id="url-input" placeholder="Поиск или URL..." spellcheck="false">
+      </div>
+    </div>
+    <div class="toolbar-right">
+      <span id="clock"></span>
+      <button id="btn-settings" class="nav-btn" title="Настройки">⚙</button>
+    </div>
+  </header>
+
+  <!-- Вкладки -->
+  <div id="tabs-bar">
+    <div id="tabs-container"></div>
+    <button id="btn-new-tab" class="new-tab-btn" title="Новая вкладка">+</button>
+  </div>
+
+  <!-- Контент -->
+  <main id="content-area">
+    <!-- Стартовая страница -->
+    <div id="newtab-page" class="page active">
+      <div class="newtab-container">
+        <div class="newtab-search">
+          <input type="text" id="search-input" placeholder="Найти в Яндексе..." spellcheck="false">
+          <button id="search-btn">🔍</button>
+        </div>
+        <div class="quick-links" id="quick-links"></div>
+        <div class="widgets-row">
+          <div class="widget">
+            <div class="widget-header"><span class="widget-title">Погода</span>
+              <select id="weather-region" class="region-select" onchange="window.browser.changeRegion(this.value)">
+                <option value="Москва">Москва</option>
+                <option value="Санкт-Петербург">СПб</option>
+                <option value="Новосибирск">Новосибирск</option>
+                <option value="Екатеринбург">Екатеринбург</option>
+                <option value="Казань">Казань</option>
+                <option value="Нижний Новгород">Нижний Новгород</option>
+                <option value="Краснодар">Краснодар</option>
+                <option value="Самара">Самара</option>
+                <option value="Омск">Омск</option>
+                <option value="Ростов-на-Дону">Ростов</option>
+                <option value="Уфа">Уфа</option>
+                <option value="Красноярск">Красноярск</option>
+                <option value="Воронеж">Воронеж</option>
+                <option value="Пермь">Пермь</option>
+                <option value="Волгоград">Волгоград</option>
+              </select>
+            </div>
+            <div class="widget-content" id="weather-content">
+              <div class="weather-loading">Загрузка...</div>
+            </div>
+          </div>
+          <div class="widget">
+            <div class="widget-header"><span class="widget-title">Новости</span></div>
+            <div class="widget-content" id="news-content"><div class="news-item">Загрузка...</div></div>
+          </div>
+          <div class="widget">
+            <div class="widget-header"><span class="widget-title">Курс ЦБ РФ</span></div>
+            <div class="widget-content" id="exchange-content"><div class="news-item">Загрузка...</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- WebView -->
+    <div id="browse-page" class="page" style="display:none;height:100%;">
+      <webview id="webview" style="width:100%;height:100%;border:none;"
+        partition="persist:browse"
+        allowpopups
+        disableblinkfeatures="AutomationControlled"></webview>
+    </div>
+
+    <!-- Блокировка -->
+    <div id="blocked-page" class="page" style="display:none;">
+      <div class="blocked-container">
+        <audio id="anthem-audio" loop><source src="anthem.mp3" type="audio/mpeg"></audio>
+        <div class="blocked-cheburashka">
+          <svg viewBox="0 0 200 220" xmlns="http://www.w3.org/2000/svg">
+            <ellipse cx="100" cy="140" rx="55" ry="60" fill="#8B6914"/>
+            <circle cx="100" cy="75" r="50" fill="#A0781E"/>
+            <ellipse cx="55" cy="35" rx="22" ry="30" fill="#8B6914" transform="rotate(-15 55 35)"/>
+            <ellipse cx="145" cy="35" rx="22" ry="30" fill="#8B6914" transform="rotate(15 145 35)"/>
+            <ellipse cx="55" cy="35" rx="14" ry="20" fill="#C4943A" transform="rotate(-15 55 35)"/>
+            <ellipse cx="145" cy="35" rx="14" ry="20" fill="#C4943A" transform="rotate(15 145 35)"/>
+            <circle cx="80" cy="68" r="14" fill="white"/><circle cx="120" cy="68" r="14" fill="white"/>
+            <circle cx="82" cy="68" r="8" fill="#222"/><circle cx="122" cy="68" r="8" fill="#222"/>
+            <circle cx="85" cy="64" r="3" fill="white"/><circle cx="125" cy="64" r="3" fill="white"/>
+            <circle cx="100" cy="82" r="4" fill="#222"/>
+            <path d="M 88 92 Q 100 102 112 92" stroke="#222" stroke-width="2" fill="none"/>
+            <ellipse cx="75" cy="195" rx="20" ry="10" fill="#8B6914"/>
+            <ellipse cx="125" cy="195" rx="20" ry="10" fill="#8B6914"/>
+            <ellipse cx="45" cy="150" rx="12" ry="18" fill="#8B6914" transform="rotate(-20 45 150)"/>
+            <ellipse cx="155" cy="150" rx="12" ry="18" fill="#8B6914" transform="rotate(20 155 150)"/>
+            <line x1="155" y1="140" x2="185" y2="80" stroke="#5D4E37" stroke-width="3"/>
+            <rect x="170" y="55" width="40" height="8" fill="white"/>
+            <rect x="170" y="63" width="40" height="8" fill="#0039A6"/>
+            <rect x="170" y="71" width="40" height="8" fill="#D52B1E"/>
+            <rect x="170" y="55" width="40" height="24" stroke="#333" stroke-width="1" fill="none"/>
+          </svg>
+        </div>
+        <div class="blocked-flag">🇷🇺</div>
+        <h2>Сайт заблокирован</h2>
+        <p class="blocked-domain" id="blocked-domain"></p>
+        <div class="blocked-anthem"><span class="blocked-anthem-icon">🎵</span><span class="blocked-anthem-text">Гимн Российской Федерации</span></div>
+        <div class="blocked-suggestion"><p>Российская альтернатива:</p><div id="blocked-alternatives" class="blocked-alternatives"></div></div>
+        <button class="blocked-home-btn" onclick="window.browser.goHome()">На главную</button>
+      </div>
+    </div>
+
+    <!-- Настройки -->
+    <div id="settings-page" class="page" style="display:none;">
+      <div class="settings-container">
+        <h2>Настройки</h2>
+        <div class="settings-tabs">
+          <button class="settings-tab active" data-tab="general">Общие</button>
+          <button class="settings-tab" data-tab="search">Поиск</button>
+          <button class="settings-tab" data-tab="privacy">Приватность</button>
+          <button class="settings-tab" data-tab="network">Сеть</button>
+          <button class="settings-tab" data-tab="about">О браузере</button>
+        </div>
+        <div class="settings-content" id="settings-content"></div>
+      </div>
+    </div>
+  </main>
+
+  <footer id="statusbar">
+    <span id="status-text">Готово</span>
+    <span id="adblock-count">🛡 0</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

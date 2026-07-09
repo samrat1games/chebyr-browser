@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+<canvas id="c" width="256" height="256"></canvas>
+<script>
+const c = document.getElementById('c');
+const ctx = c.getContext('2d');
+
+// Фон — круг
+ctx.beginPath();
+ctx.arc(128, 128, 120, 0, Math.PI * 2);
+ctx.fillStyle = '#1a1a2e';
+ctx.fill();
+
+// Внутренний круг
+ctx.beginPath();
+ctx.arc(128, 128, 100, 0, Math.PI * 2);
+ctx.fillStyle = '#e94560';
+ctx.fill();
+
+// Буква Ч
+ctx.fillStyle = 'white';
+ctx.font = 'bold 120px Arial';
+ctx.textAlign = 'center';
+ctx.textBaseline = 'middle';
+ctx.fillText('Ч', 128, 135);
+
+// Маленькая молния
+ctx.fillStyle = '#ffd700';
+ctx.font = 'bold 36px Arial';
+ctx.fillText('⚡', 170, 80);
+</script>
+</body>
+</html>
